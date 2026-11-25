@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title data-i18n="pageTitle"></title>
+    <link rel="stylesheet" href="sidepanel.css">
+</head>
+<!-- Text comes from _locales/<lang>/messages.json: data-i18n sets an element's
+     text and data-i18n-attr sets attributes (see src/lib/i18n.js). -->
+<body>
+    <!-- Asks what to do with the notes of tabs that were closed. -->
+    <aside id="closed-banner" class="closed-banner" role="alertdialog" aria-labelledby="closed-text" aria-describedby="closed-detail" hidden>
+        <p id="closed-text" dir="auto"></p>
+        <p id="closed-detail" class="status"></p>
+        <label class="remember"><input type="checkbox" id="closed-remember"> <span data-i18n="rememberChoice"></span></label>
+        <div class="button-row">
+            <button id="closed-keep" class="secondary" type="button" data-i18n="keep"></button>
+            <button id="closed-delete" class="primary danger" type="button" data-i18n="delete"></button>
+        </div>
+    </aside>
+
+    <main id="empty" class="empty" hidden>
+        <span class="empty-art" data-icon="tabs"></span>
+        <h2 data-i18n="emptyTitle"></h2>
+        <p data-i18n="emptyBody"></p>
+    </main>
+
+    <!-- The group's section is shown above the tab's when the tab is in a group. -->
+    <main id="content" class="content" hidden>
+        <section id="group-pane" class="pane" data-i18n-attr="aria-label:groupPaneLabel" hidden></section>
+        <section id="tab-pane" class="pane" data-i18n-attr="aria-label:tabPaneLabel" data-color="default"></section>
+    </main>
+
+    <template id="pane-template">
+        <header class="pane-header">
+            <div class="title-row">
+                <span class="title-icon"></span>
+                <h2 class="pane-title" dir="auto"></h2>
+                <button class="icon-btn pane-delete" type="button" data-icon="trash" data-i18n-attr="title:deleteSection;aria-label:deleteSection" hidden></button>
+            </div>
+            <p class="subtitle" dir="auto"></p>
+        </header>
+        <div class="card notes">
+            <div class="section-head">
+                <span data-icon="note"></span>
+                <span data-i18n="notesHeading"></span>
+                <span class="notes-sync"></span>
+                <button class="icon-btn notes-delete" type="button" data-icon="trash" data-i18n-attr="title:deleteNotes;aria-label:deleteNotes" hidden></button>
+            </div>
+            <textarea class="notes-input" dir="auto" spellcheck="true" rows="3"
+                data-i18n-attr="placeholder:notesPlaceholder;aria-label:notesHeading"></textarea>
+        </div>
+        <div class="tasks-section">
+            <button class="tasks-toggle" type="button" aria-expanded="true">
+                <span class="chevron" data-icon="chevron"></span>
+                <span data-i18n="tasksHeading"></span>
+                <span class="tasks-count"></span>
+            </button>
+            <div class="tasks-body">
+            <form class="card add-task">
+                <span class="add-icon" data-icon="plus"></span>
+                <textarea class="new-todo" dir="auto" rows="1" autocomplete="off"
+                    data-i18n-attr="placeholder:addTaskPlaceholder;aria-label:addTaskLabel"></textarea>
+            </form>
+            <ul class="tasks open-tasks"></ul>
+            <button class="completed-toggle" type="button" aria-expanded="true" hidden>
+                <span class="chevron" data-icon="chevron"></span>
+                <span data-i18n="completed"></span>
+                <span class="completed-count"></span>
+            </button>
+            <ul class="tasks done-tasks"></ul>
+            </div>
+        </div>
+    </template>
+
+    <footer class="footer">
+        <div class="account">
+            <span id="avatar" class="avatar" data-icon="person"></span>
+            <div class="who">
+                <div id="account-name" class="account-name" dir="auto" data-i18n="todoBrand"></div>
+                <div id="sync-status" class="status"></div>
+            </div>
+            <button id="setup-btn" class="primary" type="button" data-i18n="setUpSync" hidden></button>
+            <button id="sync-now" class="icon-btn" type="button" data-icon="sync" data-i18n-attr="title:syncNow;aria-label:syncNow" hidden></button>
+            <button id="settings-btn" class="icon-btn" type="button" data-icon="gear" data-i18n-attr="title:settingsTitle;aria-label:settingsTitle"></button>
+        </div>
+    </footer>
+
+    <dialog id="setup" class="setup" aria-labelledby="setup-title" tabindex="-1" autofocus>
+        <button id="setup-close" class="icon-btn setup-close" type="button" data-icon="dismiss" data-i18n-attr="title:close;aria-label:close"></button>
+        <div class="setup-hero" data-icon="todo"></div>
+
+        <section data-step="connect">
+            <h2 id="setup-title" data-i18n="setupTitle"></h2>
+            <p data-i18n="connectBody"></p>
+            <button id="connect-sign-in" class="primary wide" type="button" data-i18n="signInWithTodoist"></button>
+        </section>
+
+        <section data-step="done">
+            <h2 data-i18n="doneTitle"></h2>
+            <p id="done-account" class="done-account" dir="auto"></p>
+            <p id="done-body"></p>
+            <button id="done-close" class="primary wide" type="button" data-i18n="done"></button>
+        </section>
+
+        <section data-step="manage">
+            <h2 data-i18n="settingsTitle"></h2>
+            <div id="manage-account" class="settings-group">
+                <div class="settings-label" data-i18n="manageTitle"></div>
+                <div class="account-card">
+                    <span id="manage-avatar" class="avatar initials"></span>
+                    <div class="who">
+                        <div id="manage-name" class="account-name" dir="auto"></div>
+                        <div id="manage-email" class="status" dir="ltr"></div>
+                    </div>
+                </div>
+                <p id="manage-status" class="status"></p>
+                <div class="button-row">
+                    <button id="manage-sync" class="primary" type="button" data-i18n="syncNow"></button>
+                    <button id="manage-sign-out" class="secondary" type="button" data-i18n="signOut"></button>
+                </div>
+            </div>
+            <div id="manage-signed-out" class="settings-group">
+                <div class="settings-label" data-i18n="manageTitle"></div>
+                <button id="manage-set-up" class="primary" type="button" data-i18n="setUpSync"></button>
+            </div>
+            <div class="settings-group" role="radiogroup" aria-labelledby="close-action-label">
+                <div id="close-action-label" class="settings-label" data-i18n="closeActionLabel"></div>
+                <label class="radio"><input type="radio" name="close-action" value="ask"> <span data-i18n="closeActionAsk"></span></label>
+                <label class="radio"><input type="radio" name="close-action" value="keep"> <span data-i18n="closeActionKeep"></span></label>
+                <label class="radio"><input type="radio" name="close-action" value="delete"> <span data-i18n="closeActionDelete"></span></label>
+            </div>
+            <p id="about" class="about"></p>
+        </section>
+
+        <p id="setup-error" class="setup-error" role="alert" hidden></p>
+        <button id="setup-later" class="link setup-later" type="button" data-i18n="notNow"></button>
+    </dialog>
+
+    <dialog id="confirm" class="setup confirm" aria-labelledby="confirm-title" aria-describedby="confirm-detail">
+        <h2 id="confirm-title"></h2>
+        <p id="confirm-detail"></p>
+        <div class="button-row">
+            <button id="confirm-cancel" class="secondary" type="button" data-i18n="cancel"></button>
+            <button id="confirm-ok" class="primary danger" type="button" data-i18n="delete"></button>
+        </div>
+    </dialog>
+
+    <script type="module" src="sidepanel.js"></script>
+</body>
+</html>

@@ -1,0 +1,281 @@
+{
+    "localeCode": {
+        "message": "fr"
+    },
+    "extName": {
+        "message": "TabStack"
+    },
+    "extDescription": {
+        "message": "Un volet latéral avec des notes et des tâches pour chaque onglet et chaque groupe d'onglets, synchronisé avec Todoist."
+    },
+    "actionTitle": {
+        "message": "Notes d'onglet"
+    },
+    "commandOpen": {
+        "message": "Ouvrir les notes d'onglet"
+    },
+    "pageTitle": {
+        "message": "Notes d'onglet"
+    },
+    "emptyTitle": {
+        "message": "Aucun onglet sélectionné"
+    },
+    "emptyBody": {
+        "message": "Sélectionnez un onglet pour afficher ses notes et ses tâches."
+    },
+    "groupPaneLabel": {
+        "message": "Notes du groupe d'onglets"
+    },
+    "tabPaneLabel": {
+        "message": "Notes de l'onglet"
+    },
+    "untitledGroup": {
+        "message": "Groupe sans nom"
+    },
+    "newTab": {
+        "message": "Nouvel onglet"
+    },
+    "localFile": {
+        "message": "Fichier local"
+    },
+    "tabCount_one": {
+        "message": "$1 onglet"
+    },
+    "tabCount_other": {
+        "message": "$1 onglets"
+    },
+    "openTasks_one": {
+        "message": "$1 tâche en cours"
+    },
+    "openTasks_other": {
+        "message": "$1 tâches en cours"
+    },
+    "notesHeading": {
+        "message": "Notes"
+    },
+    "notesPlaceholder": {
+        "message": "Ajouter une note"
+    },
+    "addTaskPlaceholder": {
+        "message": "Ajouter une tâche"
+    },
+    "addTaskLabel": {
+        "message": "Ajouter une tâche. Appuyez sur Entrée pour l'ajouter, sur Maj+Entrée pour une nouvelle ligne."
+    },
+    "taskTitleLabel": {
+        "message": "Titre de la tâche. Appuyez sur Entrée pour enregistrer, sur Maj+Entrée pour une nouvelle ligne."
+    },
+    "completed": {
+        "message": "Terminées"
+    },
+    "markCompleted": {
+        "message": "Marquer comme terminée"
+    },
+    "markNotCompleted": {
+        "message": "Marquer comme non terminée"
+    },
+    "markImportant": {
+        "message": "Marquer comme importante"
+    },
+    "removeImportance": {
+        "message": "Supprimer l'importance"
+    },
+    "deleteTask": {
+        "message": "Supprimer la tâche"
+    },
+    "todoBrand": {
+        "message": "Todoist"
+    },
+    "setUpSync": {
+        "message": "Configurer la synchronisation"
+    },
+    "signIn": {
+        "message": "Se connecter"
+    },
+    "syncNow": {
+        "message": "Synchroniser maintenant"
+    },
+    "syncPitch": {
+        "message": "Synchronisez vos notes et tâches avec Todoist."
+    },
+    "signInExpired": {
+        "message": "Votre connexion a expiré."
+    },
+    "connected": {
+        "message": "Connecté à Todoist"
+    },
+    "syncing": {
+        "message": "Synchronisation..."
+    },
+    "syncedAt": {
+        "message": "Synchronisé à $1"
+    },
+    "syncFailed": {
+        "message": "Échec de la synchronisation : $1"
+    },
+    "close": {
+        "message": "Fermer"
+    },
+    "notNow": {
+        "message": "Pas maintenant"
+    },
+    "setupTitle": {
+        "message": "Synchroniser avec Todoist"
+    },
+    "connectBody": {
+        "message": "Vos notes et tâches sont enregistrées dans un projet Todoist, avec une tâche pour chaque onglet et groupe d'onglets qui a des notes. Retrouvez-les dans Todoist sur votre téléphone, votre ordinateur et le web."
+    },
+    "doneTitle": {
+        "message": "Tout est prêt"
+    },
+    "signedInAs": {
+        "message": "Connecté en tant que $1"
+    },
+    "yourAccount": {
+        "message": "votre compte Todoist"
+    },
+    "doneBody": {
+        "message": "Les notes et tâches sont synchronisées avec le projet **$1** dans Todoist. Chaque groupe d'onglets est une tâche nommée **$2** et chaque onglet une tâche nommée **$3**, avec vos tâches en sous-tâches."
+    },
+    "groupNamePlaceholder": {
+        "message": "<nom du groupe>"
+    },
+    "pageTitlePlaceholder": {
+        "message": "<titre de la page>"
+    },
+    "done": {
+        "message": "Terminé"
+    },
+    "manageTitle": {
+        "message": "Synchronisation Todoist"
+    },
+    "signOut": {
+        "message": "Se déconnecter"
+    },
+    "todoistTaskGroup": {
+        "message": "**[Groupe]** $1"
+    },
+    "todoistTaskTab": {
+        "message": "**[Onglet]** $1"
+    },
+    "untitledPage": {
+        "message": "Page sans titre"
+    },
+    "errCanceled": {
+        "message": "La connexion a été annulée."
+    },
+    "errAuthPage": {
+        "message": "La page de connexion Todoist n'a pas pu aboutir. Réessayez."
+    },
+    "errGeneric": {
+        "message": "Une erreur s'est produite."
+    },
+    "errNoResponse": {
+        "message": "L'extension n'a pas répondu. Essayez de rouvrir le volet latéral."
+    },
+    "errNotesGone": {
+        "message": "Ces notes ne sont plus disponibles."
+    },
+    "errSignInAgain": {
+        "message": "Reconnectez-vous pour continuer la synchronisation."
+    },
+    "errNotSignedIn": {
+        "message": "Non connecté."
+    },
+    "errStateMismatch": {
+        "message": "La connexion n'a pas pu être vérifiée. Réessayez."
+    },
+    "todoistProject": {
+        "message": "TabStack"
+    },
+    "signInWithTodoist": {
+        "message": "Se connecter avec Todoist"
+    },
+    "todoistAccount": {
+        "message": "Compte Todoist"
+    },
+    "errRegister": {
+        "message": "Impossible de se connecter à Todoist. Réessayez plus tard."
+    },
+    "syncedToTodoist": {
+        "message": "Synchronisé avec Todoist. Cliquez pour l’ouvrir dans Todoist."
+    },
+    "pendingSync": {
+        "message": "En attente de synchronisation avec Todoist"
+    },
+    "todoistProjectLegacy1": {
+        "message": "Notes de groupes d'onglets"
+    },
+    "deleteNotes": {
+        "message": "Supprimer les notes"
+    },
+    "deleteSection": {
+        "message": "Supprimer les notes et les tâches"
+    },
+    "confirmDeleteNotes": {
+        "message": "Supprimer ces notes ?"
+    },
+    "confirmDeleteGroup": {
+        "message": "Supprimer les notes et les tâches de ce groupe d'onglets ?"
+    },
+    "confirmDeleteTab": {
+        "message": "Supprimer les notes et les tâches de cet onglet ?"
+    },
+    "confirmAlsoTodoist": {
+        "message": "Elles seront aussi supprimées de Todoist."
+    },
+    "cancel": {
+        "message": "Annuler"
+    },
+    "delete": {
+        "message": "Supprimer"
+    },
+    "reorderTask": {
+        "message": "Faites glisser pour réorganiser, ou appuyez sur Alt+Haut ou Alt+Bas dans la tâche."
+    },
+    "settingsTitle": {
+        "message": "Paramètres"
+    },
+    "closeActionLabel": {
+        "message": "Quand un onglet avec des notes est fermé"
+    },
+    "closeActionAsk": {
+        "message": "Demander s'il faut supprimer ses notes et tâches"
+    },
+    "closeActionKeep": {
+        "message": "Conserver ses notes et tâches"
+    },
+    "closeActionDelete": {
+        "message": "Supprimer ses notes et tâches"
+    },
+    "rememberChoice": {
+        "message": "Mémoriser mon choix"
+    },
+    "keep": {
+        "message": "Conserver"
+    },
+    "closedOne": {
+        "message": "Vous avez fermé « $1 ». Supprimer ses notes et tâches ?"
+    },
+    "closedMany_other": {
+        "message": "Vous avez fermé $1 onglets avec des notes. Supprimer leurs notes et tâches ?"
+    },
+    "tasksHeading": {
+        "message": "Tâches"
+    },
+    "syncDone": {
+        "message": "Tout est synchronisé."
+    },
+    "aboutLine": {
+        "message": "$1 $2 · Par $3"
+    },
+    "nothingToSync": {
+        "message": "Rien à synchroniser. Les modifications faites dans Todoist sont récupérées automatiquement."
+    },
+    "todoistTaskGroupLegacy1": {
+        "message": "Groupe d'onglets : $1"
+    },
+    "todoistTaskTabLegacy1": {
+        "message": "Onglet : $1"
+    }
+}

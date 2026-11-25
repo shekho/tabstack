@@ -1,0 +1,11 @@
+{
+  "name": "tabstack",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Edge extension: notes and todos per tab group, synced to Microsoft To Do.",
+  "scripts": {
+    "test": "node --test test/",
+    "package": "pwsh -NoProfile -File scripts/package.ps1"
+  }
+}

@@ -1,0 +1,281 @@
+{
+    "localeCode": {
+        "message": "it"
+    },
+    "extName": {
+        "message": "TabStack"
+    },
+    "extDescription": {
+        "message": "Un riquadro laterale con note e attività per ogni scheda e gruppo di schede, sincronizzato con Todoist."
+    },
+    "actionTitle": {
+        "message": "Note della scheda"
+    },
+    "commandOpen": {
+        "message": "Apri note della scheda"
+    },
+    "pageTitle": {
+        "message": "Note della scheda"
+    },
+    "emptyTitle": {
+        "message": "Nessuna scheda selezionata"
+    },
+    "emptyBody": {
+        "message": "Seleziona una scheda per visualizzarne note e attività."
+    },
+    "groupPaneLabel": {
+        "message": "Note del gruppo di schede"
+    },
+    "tabPaneLabel": {
+        "message": "Note della scheda"
+    },
+    "untitledGroup": {
+        "message": "Gruppo senza nome"
+    },
+    "newTab": {
+        "message": "Nuova scheda"
+    },
+    "localFile": {
+        "message": "File locale"
+    },
+    "tabCount_one": {
+        "message": "$1 scheda"
+    },
+    "tabCount_other": {
+        "message": "$1 schede"
+    },
+    "openTasks_one": {
+        "message": "$1 attività aperta"
+    },
+    "openTasks_other": {
+        "message": "$1 attività aperte"
+    },
+    "notesHeading": {
+        "message": "Note"
+    },
+    "notesPlaceholder": {
+        "message": "Aggiungi una nota"
+    },
+    "addTaskPlaceholder": {
+        "message": "Aggiungi un'attività"
+    },
+    "addTaskLabel": {
+        "message": "Aggiungi un'attività. Premi INVIO per aggiungerla, MAIUSC+INVIO per andare a capo."
+    },
+    "taskTitleLabel": {
+        "message": "Titolo dell'attività. Premi INVIO per salvare, MAIUSC+INVIO per andare a capo."
+    },
+    "completed": {
+        "message": "Completate"
+    },
+    "markCompleted": {
+        "message": "Segna come completata"
+    },
+    "markNotCompleted": {
+        "message": "Segna come non completata"
+    },
+    "markImportant": {
+        "message": "Segna come importante"
+    },
+    "removeImportance": {
+        "message": "Rimuovi importanza"
+    },
+    "deleteTask": {
+        "message": "Elimina attività"
+    },
+    "todoBrand": {
+        "message": "Todoist"
+    },
+    "setUpSync": {
+        "message": "Configura sincronizzazione"
+    },
+    "signIn": {
+        "message": "Accedi"
+    },
+    "syncNow": {
+        "message": "Sincronizza ora"
+    },
+    "syncPitch": {
+        "message": "Sincronizza note e attività con Todoist."
+    },
+    "signInExpired": {
+        "message": "L'accesso è scaduto."
+    },
+    "connected": {
+        "message": "Connesso a Todoist"
+    },
+    "syncing": {
+        "message": "Sincronizzazione..."
+    },
+    "syncedAt": {
+        "message": "Sincronizzato alle $1"
+    },
+    "syncFailed": {
+        "message": "Sincronizzazione non riuscita: $1"
+    },
+    "close": {
+        "message": "Chiudi"
+    },
+    "notNow": {
+        "message": "Non ora"
+    },
+    "setupTitle": {
+        "message": "Sincronizza con Todoist"
+    },
+    "connectBody": {
+        "message": "Note e attività vengono salvate in un progetto Todoist, con un'attività per ogni scheda e gruppo di schede che ha note. Usale in Todoist sul telefono, sul computer e sul web."
+    },
+    "doneTitle": {
+        "message": "Tutto pronto"
+    },
+    "signedInAs": {
+        "message": "Accesso eseguito come $1"
+    },
+    "yourAccount": {
+        "message": "il tuo account Todoist"
+    },
+    "doneBody": {
+        "message": "Note e attività vengono sincronizzate con il progetto **$1** in Todoist. Ogni gruppo di schede è un'attività denominata **$2** e ogni scheda un'attività denominata **$3**, con le tue attività come sottoattività."
+    },
+    "groupNamePlaceholder": {
+        "message": "<nome del gruppo>"
+    },
+    "pageTitlePlaceholder": {
+        "message": "<titolo della pagina>"
+    },
+    "done": {
+        "message": "Fine"
+    },
+    "manageTitle": {
+        "message": "Sincronizzazione di Todoist"
+    },
+    "signOut": {
+        "message": "Esci"
+    },
+    "todoistTaskGroup": {
+        "message": "**[Gruppo]** $1"
+    },
+    "todoistTaskTab": {
+        "message": "**[Scheda]** $1"
+    },
+    "untitledPage": {
+        "message": "Pagina senza titolo"
+    },
+    "errCanceled": {
+        "message": "L'accesso è stato annullato."
+    },
+    "errAuthPage": {
+        "message": "Non è stato possibile completare la pagina di accesso di Todoist. Riprova."
+    },
+    "errGeneric": {
+        "message": "Si è verificato un problema."
+    },
+    "errNoResponse": {
+        "message": "L'estensione non ha risposto. Prova a riaprire il riquadro laterale."
+    },
+    "errNotesGone": {
+        "message": "Queste note non sono più disponibili."
+    },
+    "errSignInAgain": {
+        "message": "Accedi di nuovo per continuare la sincronizzazione."
+    },
+    "errNotSignedIn": {
+        "message": "Accesso non eseguito."
+    },
+    "errStateMismatch": {
+        "message": "Impossibile verificare l'accesso. Riprova."
+    },
+    "todoistProject": {
+        "message": "TabStack"
+    },
+    "signInWithTodoist": {
+        "message": "Accedi con Todoist"
+    },
+    "todoistAccount": {
+        "message": "Account Todoist"
+    },
+    "errRegister": {
+        "message": "Impossibile connettersi a Todoist. Riprova più tardi."
+    },
+    "syncedToTodoist": {
+        "message": "Sincronizzato con Todoist. Fai clic per aprirlo in Todoist."
+    },
+    "pendingSync": {
+        "message": "In attesa di sincronizzazione con Todoist"
+    },
+    "todoistProjectLegacy1": {
+        "message": "Note dei gruppi di schede"
+    },
+    "deleteNotes": {
+        "message": "Elimina note"
+    },
+    "deleteSection": {
+        "message": "Elimina note e attività"
+    },
+    "confirmDeleteNotes": {
+        "message": "Eliminare queste note?"
+    },
+    "confirmDeleteGroup": {
+        "message": "Eliminare le note e le attività di questo gruppo di schede?"
+    },
+    "confirmDeleteTab": {
+        "message": "Eliminare le note e le attività di questa scheda?"
+    },
+    "confirmAlsoTodoist": {
+        "message": "Verranno eliminate anche da Todoist."
+    },
+    "cancel": {
+        "message": "Annulla"
+    },
+    "delete": {
+        "message": "Elimina"
+    },
+    "reorderTask": {
+        "message": "Trascina per riordinare oppure premi ALT+SU o ALT+GIÙ nell'attività."
+    },
+    "settingsTitle": {
+        "message": "Impostazioni"
+    },
+    "closeActionLabel": {
+        "message": "Quando si chiude una scheda con note"
+    },
+    "closeActionAsk": {
+        "message": "Chiedi se eliminare note e attività"
+    },
+    "closeActionKeep": {
+        "message": "Mantieni note e attività"
+    },
+    "closeActionDelete": {
+        "message": "Elimina note e attività"
+    },
+    "rememberChoice": {
+        "message": "Ricorda la scelta"
+    },
+    "keep": {
+        "message": "Mantieni"
+    },
+    "closedOne": {
+        "message": "Hai chiuso \"$1\". Eliminare le sue note e attività?"
+    },
+    "closedMany_other": {
+        "message": "Hai chiuso $1 schede con note. Eliminare le loro note e attività?"
+    },
+    "tasksHeading": {
+        "message": "Attività"
+    },
+    "syncDone": {
+        "message": "Tutto è sincronizzato."
+    },
+    "aboutLine": {
+        "message": "$1 $2 · Realizzato da $3"
+    },
+    "nothingToSync": {
+        "message": "Niente da sincronizzare. Le modifiche apportate in Todoist vengono recuperate automaticamente."
+    },
+    "todoistTaskGroupLegacy1": {
+        "message": "Gruppo di schede: $1"
+    },
+    "todoistTaskTabLegacy1": {
+        "message": "Scheda: $1"
+    }
+}

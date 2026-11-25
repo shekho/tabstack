@@ -1,0 +1,374 @@
+{
+    "localeCode": {
+        "message": "en",
+        "description": "Don't translate. Set to this file's locale folder name, such as de or pt_BR."
+    },
+    "extName": {
+        "message": "TabStack",
+        "description": "Extension name. Don't translate."
+    },
+    "extDescription": {
+        "message": "A side pane with notes and todos for every tab and tab group, synced to Todoist.",
+        "description": "Extension description in the store and extensions page."
+    },
+    "actionTitle": {
+        "message": "Tab notes",
+        "description": "Tooltip of the toolbar button that opens the side pane."
+    },
+    "commandOpen": {
+        "message": "Open tab notes",
+        "description": "Keyboard shortcut description on the browser's shortcuts page."
+    },
+    "pageTitle": {
+        "message": "Tab notes",
+        "description": "Side pane document title before a tab is shown."
+    },
+    "emptyTitle": {
+        "message": "No tab selected",
+        "description": "Heading when there's no active tab."
+    },
+    "emptyBody": {
+        "message": "Select a tab to see its notes and tasks.",
+        "description": "Text when there's no active tab."
+    },
+    "groupPaneLabel": {
+        "message": "Tab group notes",
+        "description": "Accessible name of the tab group section."
+    },
+    "tabPaneLabel": {
+        "message": "Tab notes",
+        "description": "Accessible name of the tab section."
+    },
+    "untitledGroup": {
+        "message": "Untitled group",
+        "description": "Shown for a tab group that has no name."
+    },
+    "newTab": {
+        "message": "New tab",
+        "description": "Shown for a tab that has no title or address."
+    },
+    "localFile": {
+        "message": "Local file",
+        "description": "Shown under a tab's title when it shows a file on the computer."
+    },
+    "tabCount_one": {
+        "message": "$1 tab",
+        "description": "Number of tabs in a group, singular. $1 is the number."
+    },
+    "tabCount_other": {
+        "message": "$1 tabs",
+        "description": "Number of tabs in a group, plural. $1 is the number."
+    },
+    "openTasks_one": {
+        "message": "$1 open task",
+        "description": "Number of tasks not completed, singular. $1 is the number."
+    },
+    "openTasks_other": {
+        "message": "$1 open tasks",
+        "description": "Number of tasks not completed, plural. $1 is the number."
+    },
+    "notesHeading": {
+        "message": "Notes",
+        "description": "Heading of the notes card."
+    },
+    "notesPlaceholder": {
+        "message": "Add a note",
+        "description": "Placeholder in the empty notes box."
+    },
+    "addTaskPlaceholder": {
+        "message": "Add a task",
+        "description": "Placeholder in the box that adds a task."
+    },
+    "addTaskLabel": {
+        "message": "Add a task. Press Enter to add, Shift+Enter for a new line.",
+        "description": "Screen reader label of the box that adds a task."
+    },
+    "taskTitleLabel": {
+        "message": "Task title. Press Enter to save, Shift+Enter for a new line.",
+        "description": "Screen reader label of a task's editable title."
+    },
+    "completed": {
+        "message": "Completed",
+        "description": "Heading of the collapsible list of completed tasks."
+    },
+    "markCompleted": {
+        "message": "Mark as completed",
+        "description": "Tooltip of a task's round checkbox."
+    },
+    "markNotCompleted": {
+        "message": "Mark as not completed",
+        "description": "Tooltip of a completed task's checkbox."
+    },
+    "markImportant": {
+        "message": "Mark as important",
+        "description": "Tooltip of a task's star button."
+    },
+    "removeImportance": {
+        "message": "Remove importance",
+        "description": "Tooltip of a starred task's star button."
+    },
+    "deleteTask": {
+        "message": "Delete task",
+        "description": "Tooltip of a task's delete button."
+    },
+    "todoBrand": {
+        "message": "Todoist",
+        "description": "Product name. Don't translate."
+    },
+    "setUpSync": {
+        "message": "Set up sync",
+        "description": "Footer button that opens sync setup."
+    },
+    "signIn": {
+        "message": "Sign in",
+        "description": "Footer button when sync is set up but the user is signed out."
+    },
+    "syncNow": {
+        "message": "Sync now",
+        "description": "Button that syncs immediately."
+    },
+    "syncPitch": {
+        "message": "Sync notes and tasks to Todoist.",
+        "description": "Footer status when sync isn't set up."
+    },
+    "signInExpired": {
+        "message": "Your sign-in expired.",
+        "description": "Footer status when the user must sign in again."
+    },
+    "connected": {
+        "message": "Connected to Todoist",
+        "description": "Footer status after signing in, before the first sync."
+    },
+    "syncing": {
+        "message": "Syncing...",
+        "description": "Footer status during sync."
+    },
+    "syncedAt": {
+        "message": "Synced at $1",
+        "description": "Footer status after a sync. $1 is a time, such as 11:45 AM."
+    },
+    "syncFailed": {
+        "message": "Sync failed: $1",
+        "description": "Footer status when sync fails. $1 is the error message."
+    },
+    "close": {
+        "message": "Close",
+        "description": "Tooltip of the setup window's close button."
+    },
+    "notNow": {
+        "message": "Not now",
+        "description": "Link that closes the setup window without setting up sync."
+    },
+    "setupTitle": {
+        "message": "Sync with Todoist",
+        "description": "Title of the setup window."
+    },
+    "connectBody": {
+        "message": "Your notes and tasks go to a Todoist project, with a task for every tab and tab group that has notes. Use them in Todoist on your phone, computer, and the web.",
+        "description": "Setup window text before signing in."
+    },
+    "doneTitle": {
+        "message": "You're all set",
+        "description": "Setup window title after signing in."
+    },
+    "signedInAs": {
+        "message": "Signed in as $1",
+        "description": "$1 is the user's email address or name."
+    },
+    "yourAccount": {
+        "message": "your Todoist account",
+        "description": "Used in 'Signed in as $1' when the account name is unknown."
+    },
+    "doneBody": {
+        "message": "Notes and tasks sync to the **$1** project in Todoist. Each tab group is a task named **$2** and each tab a task named **$3**, with your tasks as its subtasks.",
+        "description": "Setup window text after signing in. $1 is the project name, $2 and $3 are example task names."
+    },
+    "groupNamePlaceholder": {
+        "message": "<group name>",
+        "description": "Stands for a tab group's name in an example Todoist task name."
+    },
+    "pageTitlePlaceholder": {
+        "message": "<page title>",
+        "description": "Stands for a web page's title in an example Todoist task name."
+    },
+    "done": {
+        "message": "Done",
+        "description": "Button that closes the setup window."
+    },
+    "manageTitle": {
+        "message": "Todoist sync",
+        "description": "Title of the sync settings window."
+    },
+    "signOut": {
+        "message": "Sign out",
+        "description": "Button that signs out of Todoist."
+    },
+    "todoistTaskGroup": {
+        "message": "**[Group]** $1",
+        "description": "Name of the Todoist task for a tab group. $1 is the group's name. **...** is bold in Todoist; keep the brackets."
+    },
+    "todoistTaskTab": {
+        "message": "**[Tab]** $1",
+        "description": "Name of the Todoist task for a tab. $1 is the page title. **...** is bold in Todoist; keep the brackets."
+    },
+    "untitledPage": {
+        "message": "Untitled page",
+        "description": "Used in a Todoist task name when the page has no title."
+    },
+    "errCanceled": {
+        "message": "Sign-in was canceled.",
+        "description": "Error when the user closes the sign-in window."
+    },
+    "errAuthPage": {
+        "message": "The Todoist sign-in page couldn't finish. Try again.",
+        "description": "Error when the Todoist sign-in window fails."
+    },
+    "errGeneric": {
+        "message": "Something went wrong.",
+        "description": "Fallback error message."
+    },
+    "errNoResponse": {
+        "message": "The extension didn't respond. Try reopening the side pane.",
+        "description": "Error when the background script doesn't answer."
+    },
+    "errNotesGone": {
+        "message": "These notes are no longer available.",
+        "description": "Error when editing notes that were removed."
+    },
+    "errSignInAgain": {
+        "message": "Sign in again to keep syncing.",
+        "description": "Error when the sign-in expired."
+    },
+    "errNotSignedIn": {
+        "message": "Not signed in.",
+        "description": "Error when syncing while signed out."
+    },
+    "errStateMismatch": {
+        "message": "Sign-in couldn't be verified. Try again.",
+        "description": "Error when the sign-in response doesn't match the request."
+    },
+    "todoistProject": {
+        "message": "TabStack",
+        "description": "Name of the Todoist project that holds all notes. Don't translate."
+    },
+    "signInWithTodoist": {
+        "message": "Sign in with Todoist",
+        "description": "Setup window button that opens Todoist sign-in."
+    },
+    "todoistAccount": {
+        "message": "Todoist account",
+        "description": "Shown when the signed-in Todoist account has no display name."
+    },
+    "errRegister": {
+        "message": "Couldn't connect to Todoist. Try again later.",
+        "description": "Error when the extension can't register itself with Todoist."
+    },
+    "syncedToTodoist": {
+        "message": "Synced to Todoist. Click to open it in Todoist.",
+        "description": "Tooltip of the cloud icon on notes or a task that is in Todoist."
+    },
+    "pendingSync": {
+        "message": "Waiting to sync to Todoist",
+        "description": "Tooltip of the cloud icon on notes or a task whose changes haven't reached Todoist yet."
+    },
+    "todoistProjectLegacy1": {
+        "message": "Tab Group Notes",
+        "description": "Earlier name of the Todoist project, used to find and rename existing projects. Keep the old translation; never change it."
+    },
+    "deleteNotes": {
+        "message": "Delete notes",
+        "description": "Tooltip of the button that deletes the notes."
+    },
+    "deleteSection": {
+        "message": "Delete notes and tasks",
+        "description": "Tooltip of the button that deletes a tab's or tab group's notes and tasks."
+    },
+    "confirmDeleteNotes": {
+        "message": "Delete these notes?",
+        "description": "Confirmation question before deleting notes."
+    },
+    "confirmDeleteGroup": {
+        "message": "Delete this tab group's notes and tasks?",
+        "description": "Confirmation question before deleting a tab group's notes and tasks. The browser tab group itself stays open."
+    },
+    "confirmDeleteTab": {
+        "message": "Delete this tab's notes and tasks?",
+        "description": "Confirmation question before deleting a tab's notes and tasks. The tab itself stays open."
+    },
+    "confirmAlsoTodoist": {
+        "message": "They'll be deleted from Todoist too.",
+        "description": "Second line of a delete confirmation when the item is also in Todoist."
+    },
+    "cancel": {
+        "message": "Cancel",
+        "description": "Button that closes a confirmation without doing anything."
+    },
+    "delete": {
+        "message": "Delete",
+        "description": "Button that confirms a deletion."
+    },
+    "reorderTask": {
+        "message": "Drag to reorder. Or press Alt+Up or Alt+Down in the task.",
+        "description": "Tooltip of a task's drag handle."
+    },
+    "settingsTitle": {
+        "message": "Settings",
+        "description": "Title of the settings window and tooltip of the gear button."
+    },
+    "closeActionLabel": {
+        "message": "When a tab with notes closes",
+        "description": "Heading of the setting for what happens to a tab's notes and tasks when the tab closes."
+    },
+    "closeActionAsk": {
+        "message": "Ask whether to delete its notes and tasks",
+        "description": "Option: ask each time."
+    },
+    "closeActionKeep": {
+        "message": "Keep its notes and tasks",
+        "description": "Option: keep the notes and tasks."
+    },
+    "closeActionDelete": {
+        "message": "Delete its notes and tasks",
+        "description": "Option: delete the notes and tasks (also in Todoist)."
+    },
+    "rememberChoice": {
+        "message": "Remember my choice",
+        "description": "Checkbox in the closed-tab prompt that saves the choice as the setting."
+    },
+    "keep": {
+        "message": "Keep",
+        "description": "Button that keeps a closed tab's notes and tasks."
+    },
+    "closedOne": {
+        "message": "You closed \"$1\". Delete its notes and tasks?",
+        "description": "Prompt after closing a tab that had notes. $1 is the tab's title."
+    },
+    "closedMany_other": {
+        "message": "You closed $1 tabs with notes. Delete their notes and tasks?",
+        "description": "Prompt after closing several tabs that had notes. $1 is the number of tabs."
+    },
+    "tasksHeading": {
+        "message": "Tasks",
+        "description": "Heading that collapses or expands the task list. Followed by the number of open tasks."
+    },
+    "syncDone": {
+        "message": "Everything is synced.",
+        "description": "Shown in Settings after Sync now succeeds."
+    },
+    "aboutLine": {
+        "message": "$1 $2 · Made by $3",
+        "description": "Bottom of Settings. $1 is the extension name, $2 the version, $3 the publisher (Stark Industries, don't translate)."
+    },
+    "nothingToSync": {
+        "message": "Nothing to sync. Changes made in Todoist are pulled in automatically.",
+        "description": "Tooltip of the grayed-out Sync now button."
+    },
+    "todoistTaskGroupLegacy1": {
+        "message": "Tab group: $1",
+        "description": "Earlier format of the tab group task name, used to find and rename existing tasks. Never change it."
+    },
+    "todoistTaskTabLegacy1": {
+        "message": "Tab: $1",
+        "description": "Earlier format of the tab task name, used to find and rename existing tasks. Never change it."
+    }
+}

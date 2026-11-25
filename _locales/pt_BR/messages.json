@@ -1,0 +1,281 @@
+{
+    "localeCode": {
+        "message": "pt_BR"
+    },
+    "extName": {
+        "message": "TabStack"
+    },
+    "extDescription": {
+        "message": "Um painel lateral com notas e tarefas para cada guia e grupo de guias, sincronizado com o Todoist."
+    },
+    "actionTitle": {
+        "message": "Notas da guia"
+    },
+    "commandOpen": {
+        "message": "Abrir notas da guia"
+    },
+    "pageTitle": {
+        "message": "Notas da guia"
+    },
+    "emptyTitle": {
+        "message": "Nenhuma guia selecionada"
+    },
+    "emptyBody": {
+        "message": "Selecione uma guia para ver as notas e tarefas dela."
+    },
+    "groupPaneLabel": {
+        "message": "Notas do grupo de guias"
+    },
+    "tabPaneLabel": {
+        "message": "Notas da guia"
+    },
+    "untitledGroup": {
+        "message": "Grupo sem nome"
+    },
+    "newTab": {
+        "message": "Nova guia"
+    },
+    "localFile": {
+        "message": "Arquivo local"
+    },
+    "tabCount_one": {
+        "message": "$1 guia"
+    },
+    "tabCount_other": {
+        "message": "$1 guias"
+    },
+    "openTasks_one": {
+        "message": "$1 tarefa pendente"
+    },
+    "openTasks_other": {
+        "message": "$1 tarefas pendentes"
+    },
+    "notesHeading": {
+        "message": "Notas"
+    },
+    "notesPlaceholder": {
+        "message": "Adicionar uma nota"
+    },
+    "addTaskPlaceholder": {
+        "message": "Adicionar uma tarefa"
+    },
+    "addTaskLabel": {
+        "message": "Adicionar uma tarefa. Pressione Enter para adicionar e Shift+Enter para uma nova linha."
+    },
+    "taskTitleLabel": {
+        "message": "Título da tarefa. Pressione Enter para salvar e Shift+Enter para uma nova linha."
+    },
+    "completed": {
+        "message": "Concluídas"
+    },
+    "markCompleted": {
+        "message": "Marcar como concluída"
+    },
+    "markNotCompleted": {
+        "message": "Marcar como não concluída"
+    },
+    "markImportant": {
+        "message": "Marcar como importante"
+    },
+    "removeImportance": {
+        "message": "Remover importância"
+    },
+    "deleteTask": {
+        "message": "Excluir tarefa"
+    },
+    "todoBrand": {
+        "message": "Todoist"
+    },
+    "setUpSync": {
+        "message": "Configurar sincronização"
+    },
+    "signIn": {
+        "message": "Entrar"
+    },
+    "syncNow": {
+        "message": "Sincronizar agora"
+    },
+    "syncPitch": {
+        "message": "Sincronize notas e tarefas com o Todoist."
+    },
+    "signInExpired": {
+        "message": "Sua sessão expirou."
+    },
+    "connected": {
+        "message": "Conectado ao Todoist"
+    },
+    "syncing": {
+        "message": "Sincronizando..."
+    },
+    "syncedAt": {
+        "message": "Sincronizado às $1"
+    },
+    "syncFailed": {
+        "message": "Falha na sincronização: $1"
+    },
+    "close": {
+        "message": "Fechar"
+    },
+    "notNow": {
+        "message": "Agora não"
+    },
+    "setupTitle": {
+        "message": "Sincronizar com o Todoist"
+    },
+    "connectBody": {
+        "message": "Suas notas e tarefas vão para um projeto do Todoist, com uma tarefa para cada guia e grupo de guias que tenha notas. Use-as no Todoist no celular, no computador e na web."
+    },
+    "doneTitle": {
+        "message": "Tudo pronto"
+    },
+    "signedInAs": {
+        "message": "Conectado como $1"
+    },
+    "yourAccount": {
+        "message": "sua conta do Todoist"
+    },
+    "doneBody": {
+        "message": "As notas e tarefas são sincronizadas com o projeto **$1** no Todoist. Cada grupo de guias é uma tarefa chamada **$2** e cada guia uma tarefa chamada **$3**, com suas tarefas como subtarefas."
+    },
+    "groupNamePlaceholder": {
+        "message": "<nome do grupo>"
+    },
+    "pageTitlePlaceholder": {
+        "message": "<título da página>"
+    },
+    "done": {
+        "message": "Concluído"
+    },
+    "manageTitle": {
+        "message": "Sincronização do Todoist"
+    },
+    "signOut": {
+        "message": "Sair"
+    },
+    "todoistTaskGroup": {
+        "message": "**[Grupo]** $1"
+    },
+    "todoistTaskTab": {
+        "message": "**[Guia]** $1"
+    },
+    "untitledPage": {
+        "message": "Página sem título"
+    },
+    "errCanceled": {
+        "message": "A entrada foi cancelada."
+    },
+    "errAuthPage": {
+        "message": "Não foi possível concluir a página de entrada do Todoist. Tente novamente."
+    },
+    "errGeneric": {
+        "message": "Algo deu errado."
+    },
+    "errNoResponse": {
+        "message": "A extensão não respondeu. Tente abrir o painel lateral novamente."
+    },
+    "errNotesGone": {
+        "message": "Estas notas não estão mais disponíveis."
+    },
+    "errSignInAgain": {
+        "message": "Entre novamente para continuar sincronizando."
+    },
+    "errNotSignedIn": {
+        "message": "Não conectado."
+    },
+    "errStateMismatch": {
+        "message": "Não foi possível verificar a entrada. Tente novamente."
+    },
+    "todoistProject": {
+        "message": "TabStack"
+    },
+    "signInWithTodoist": {
+        "message": "Entrar com o Todoist"
+    },
+    "todoistAccount": {
+        "message": "Conta do Todoist"
+    },
+    "errRegister": {
+        "message": "Não foi possível conectar ao Todoist. Tente novamente mais tarde."
+    },
+    "syncedToTodoist": {
+        "message": "Sincronizado com o Todoist. Clique para abrir no Todoist."
+    },
+    "pendingSync": {
+        "message": "Aguardando sincronização com o Todoist"
+    },
+    "todoistProjectLegacy1": {
+        "message": "Notas de grupos de guias"
+    },
+    "deleteNotes": {
+        "message": "Excluir notas"
+    },
+    "deleteSection": {
+        "message": "Excluir notas e tarefas"
+    },
+    "confirmDeleteNotes": {
+        "message": "Excluir estas notas?"
+    },
+    "confirmDeleteGroup": {
+        "message": "Excluir as notas e tarefas deste grupo de guias?"
+    },
+    "confirmDeleteTab": {
+        "message": "Excluir as notas e tarefas desta guia?"
+    },
+    "confirmAlsoTodoist": {
+        "message": "Elas também serão excluídas do Todoist."
+    },
+    "cancel": {
+        "message": "Cancelar"
+    },
+    "delete": {
+        "message": "Excluir"
+    },
+    "reorderTask": {
+        "message": "Arraste para reordenar ou pressione Alt+Seta para cima ou Alt+Seta para baixo na tarefa."
+    },
+    "settingsTitle": {
+        "message": "Configurações"
+    },
+    "closeActionLabel": {
+        "message": "Quando uma guia com notas é fechada"
+    },
+    "closeActionAsk": {
+        "message": "Perguntar se as notas e tarefas devem ser excluídas"
+    },
+    "closeActionKeep": {
+        "message": "Manter as notas e tarefas"
+    },
+    "closeActionDelete": {
+        "message": "Excluir as notas e tarefas"
+    },
+    "rememberChoice": {
+        "message": "Lembrar minha escolha"
+    },
+    "keep": {
+        "message": "Manter"
+    },
+    "closedOne": {
+        "message": "Você fechou \"$1\". Excluir as notas e tarefas dela?"
+    },
+    "closedMany_other": {
+        "message": "Você fechou $1 guias com notas. Excluir as notas e tarefas delas?"
+    },
+    "tasksHeading": {
+        "message": "Tarefas"
+    },
+    "syncDone": {
+        "message": "Tudo está sincronizado."
+    },
+    "aboutLine": {
+        "message": "$1 $2 · Feito por $3"
+    },
+    "nothingToSync": {
+        "message": "Nada para sincronizar. As alterações feitas no Todoist são obtidas automaticamente."
+    },
+    "todoistTaskGroupLegacy1": {
+        "message": "Grupo de guias: $1"
+    },
+    "todoistTaskTabLegacy1": {
+        "message": "Guia: $1"
+    }
+}

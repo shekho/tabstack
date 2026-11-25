@@ -1,0 +1,281 @@
+{
+    "localeCode": {
+        "message": "es"
+    },
+    "extName": {
+        "message": "TabStack"
+    },
+    "extDescription": {
+        "message": "Un panel lateral con notas y tareas para cada pestaña y grupo de pestañas, sincronizado con Todoist."
+    },
+    "actionTitle": {
+        "message": "Notas de pestaña"
+    },
+    "commandOpen": {
+        "message": "Abrir notas de pestaña"
+    },
+    "pageTitle": {
+        "message": "Notas de pestaña"
+    },
+    "emptyTitle": {
+        "message": "No hay ninguna pestaña seleccionada"
+    },
+    "emptyBody": {
+        "message": "Selecciona una pestaña para ver sus notas y tareas."
+    },
+    "groupPaneLabel": {
+        "message": "Notas del grupo de pestañas"
+    },
+    "tabPaneLabel": {
+        "message": "Notas de la pestaña"
+    },
+    "untitledGroup": {
+        "message": "Grupo sin nombre"
+    },
+    "newTab": {
+        "message": "Nueva pestaña"
+    },
+    "localFile": {
+        "message": "Archivo local"
+    },
+    "tabCount_one": {
+        "message": "$1 pestaña"
+    },
+    "tabCount_other": {
+        "message": "$1 pestañas"
+    },
+    "openTasks_one": {
+        "message": "$1 tarea pendiente"
+    },
+    "openTasks_other": {
+        "message": "$1 tareas pendientes"
+    },
+    "notesHeading": {
+        "message": "Notas"
+    },
+    "notesPlaceholder": {
+        "message": "Agregar una nota"
+    },
+    "addTaskPlaceholder": {
+        "message": "Agregar una tarea"
+    },
+    "addTaskLabel": {
+        "message": "Agregar una tarea. Presiona Entrar para agregarla y Mayús+Entrar para una nueva línea."
+    },
+    "taskTitleLabel": {
+        "message": "Título de la tarea. Presiona Entrar para guardar y Mayús+Entrar para una nueva línea."
+    },
+    "completed": {
+        "message": "Completadas"
+    },
+    "markCompleted": {
+        "message": "Marcar como completada"
+    },
+    "markNotCompleted": {
+        "message": "Marcar como no completada"
+    },
+    "markImportant": {
+        "message": "Marcar como importante"
+    },
+    "removeImportance": {
+        "message": "Quitar importancia"
+    },
+    "deleteTask": {
+        "message": "Eliminar tarea"
+    },
+    "todoBrand": {
+        "message": "Todoist"
+    },
+    "setUpSync": {
+        "message": "Configurar sincronización"
+    },
+    "signIn": {
+        "message": "Iniciar sesión"
+    },
+    "syncNow": {
+        "message": "Sincronizar ahora"
+    },
+    "syncPitch": {
+        "message": "Sincroniza notas y tareas con Todoist."
+    },
+    "signInExpired": {
+        "message": "Tu sesión expiró."
+    },
+    "connected": {
+        "message": "Conectado a Todoist"
+    },
+    "syncing": {
+        "message": "Sincronizando..."
+    },
+    "syncedAt": {
+        "message": "Sincronizado a las $1"
+    },
+    "syncFailed": {
+        "message": "Error de sincronización: $1"
+    },
+    "close": {
+        "message": "Cerrar"
+    },
+    "notNow": {
+        "message": "Ahora no"
+    },
+    "setupTitle": {
+        "message": "Sincronizar con Todoist"
+    },
+    "connectBody": {
+        "message": "Tus notas y tareas se guardan en un proyecto de Todoist, con una tarea para cada pestaña y grupo de pestañas que tenga notas. Úsalas en Todoist en tu teléfono, tu equipo y la web."
+    },
+    "doneTitle": {
+        "message": "Todo listo"
+    },
+    "signedInAs": {
+        "message": "Sesión iniciada como $1"
+    },
+    "yourAccount": {
+        "message": "tu cuenta de Todoist"
+    },
+    "doneBody": {
+        "message": "Las notas y tareas se sincronizan con el proyecto **$1** de Todoist. Cada grupo de pestañas es una tarea llamada **$2** y cada pestaña una tarea llamada **$3**, con tus tareas como subtareas."
+    },
+    "groupNamePlaceholder": {
+        "message": "<nombre del grupo>"
+    },
+    "pageTitlePlaceholder": {
+        "message": "<título de la página>"
+    },
+    "done": {
+        "message": "Listo"
+    },
+    "manageTitle": {
+        "message": "Sincronización de Todoist"
+    },
+    "signOut": {
+        "message": "Cerrar sesión"
+    },
+    "todoistTaskGroup": {
+        "message": "**[Grupo]** $1"
+    },
+    "todoistTaskTab": {
+        "message": "**[Pestaña]** $1"
+    },
+    "untitledPage": {
+        "message": "Página sin título"
+    },
+    "errCanceled": {
+        "message": "Se canceló el inicio de sesión."
+    },
+    "errAuthPage": {
+        "message": "La página de inicio de sesión de Todoist no pudo completarse. Inténtalo de nuevo."
+    },
+    "errGeneric": {
+        "message": "Algo salió mal."
+    },
+    "errNoResponse": {
+        "message": "La extensión no respondió. Intenta volver a abrir el panel lateral."
+    },
+    "errNotesGone": {
+        "message": "Estas notas ya no están disponibles."
+    },
+    "errSignInAgain": {
+        "message": "Vuelve a iniciar sesión para seguir sincronizando."
+    },
+    "errNotSignedIn": {
+        "message": "No has iniciado sesión."
+    },
+    "errStateMismatch": {
+        "message": "No se pudo verificar el inicio de sesión. Inténtalo de nuevo."
+    },
+    "todoistProject": {
+        "message": "TabStack"
+    },
+    "signInWithTodoist": {
+        "message": "Iniciar sesión con Todoist"
+    },
+    "todoistAccount": {
+        "message": "Cuenta de Todoist"
+    },
+    "errRegister": {
+        "message": "No se pudo conectar con Todoist. Inténtalo más tarde."
+    },
+    "syncedToTodoist": {
+        "message": "Sincronizado con Todoist. Haz clic para abrirlo en Todoist."
+    },
+    "pendingSync": {
+        "message": "Pendiente de sincronizar con Todoist"
+    },
+    "todoistProjectLegacy1": {
+        "message": "Notas de grupos de pestañas"
+    },
+    "deleteNotes": {
+        "message": "Eliminar notas"
+    },
+    "deleteSection": {
+        "message": "Eliminar notas y tareas"
+    },
+    "confirmDeleteNotes": {
+        "message": "¿Eliminar estas notas?"
+    },
+    "confirmDeleteGroup": {
+        "message": "¿Eliminar las notas y tareas de este grupo de pestañas?"
+    },
+    "confirmDeleteTab": {
+        "message": "¿Eliminar las notas y tareas de esta pestaña?"
+    },
+    "confirmAlsoTodoist": {
+        "message": "También se eliminarán de Todoist."
+    },
+    "cancel": {
+        "message": "Cancelar"
+    },
+    "delete": {
+        "message": "Eliminar"
+    },
+    "reorderTask": {
+        "message": "Arrastra para reordenar, o presiona Alt+Arriba o Alt+Abajo en la tarea."
+    },
+    "settingsTitle": {
+        "message": "Configuración"
+    },
+    "closeActionLabel": {
+        "message": "Al cerrar una pestaña con notas"
+    },
+    "closeActionAsk": {
+        "message": "Preguntar si eliminar sus notas y tareas"
+    },
+    "closeActionKeep": {
+        "message": "Conservar sus notas y tareas"
+    },
+    "closeActionDelete": {
+        "message": "Eliminar sus notas y tareas"
+    },
+    "rememberChoice": {
+        "message": "Recordar mi elección"
+    },
+    "keep": {
+        "message": "Conservar"
+    },
+    "closedOne": {
+        "message": "Cerraste \"$1\". ¿Eliminar sus notas y tareas?"
+    },
+    "closedMany_other": {
+        "message": "Cerraste $1 pestañas con notas. ¿Eliminar sus notas y tareas?"
+    },
+    "tasksHeading": {
+        "message": "Tareas"
+    },
+    "syncDone": {
+        "message": "Todo está sincronizado."
+    },
+    "aboutLine": {
+        "message": "$1 $2 · Hecho por $3"
+    },
+    "nothingToSync": {
+        "message": "No hay nada que sincronizar. Los cambios hechos en Todoist se obtienen automáticamente."
+    },
+    "todoistTaskGroupLegacy1": {
+        "message": "Grupo de pestañas: $1"
+    },
+    "todoistTaskTabLegacy1": {
+        "message": "Pestaña: $1"
+    }
+}

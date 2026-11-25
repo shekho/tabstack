@@ -1,0 +1,275 @@
+{
+    "localeCode": {
+        "message": "ko"
+    },
+    "extName": {
+        "message": "TabStack"
+    },
+    "extDescription": {
+        "message": "모든 탭과 탭 그룹에 대한 메모와 할 일을 보여 주는 사이드 패널로, Todoist와 동기화됩니다."
+    },
+    "actionTitle": {
+        "message": "탭 메모"
+    },
+    "commandOpen": {
+        "message": "탭 메모 열기"
+    },
+    "pageTitle": {
+        "message": "탭 메모"
+    },
+    "emptyTitle": {
+        "message": "선택한 탭 없음"
+    },
+    "emptyBody": {
+        "message": "탭을 선택하면 해당 탭의 메모와 작업이 표시됩니다."
+    },
+    "groupPaneLabel": {
+        "message": "탭 그룹 메모"
+    },
+    "tabPaneLabel": {
+        "message": "탭 메모"
+    },
+    "untitledGroup": {
+        "message": "이름 없는 그룹"
+    },
+    "newTab": {
+        "message": "새 탭"
+    },
+    "localFile": {
+        "message": "로컬 파일"
+    },
+    "tabCount_other": {
+        "message": "탭 $1개"
+    },
+    "openTasks_other": {
+        "message": "진행 중인 작업 $1개"
+    },
+    "notesHeading": {
+        "message": "메모"
+    },
+    "notesPlaceholder": {
+        "message": "메모 추가"
+    },
+    "addTaskPlaceholder": {
+        "message": "작업 추가"
+    },
+    "addTaskLabel": {
+        "message": "작업을 추가합니다. Enter 키를 누르면 추가되고, Shift+Enter 키를 누르면 줄이 바뀝니다."
+    },
+    "taskTitleLabel": {
+        "message": "작업 제목입니다. Enter 키를 누르면 저장되고, Shift+Enter 키를 누르면 줄이 바뀝니다."
+    },
+    "completed": {
+        "message": "완료됨"
+    },
+    "markCompleted": {
+        "message": "완료됨으로 표시"
+    },
+    "markNotCompleted": {
+        "message": "완료되지 않음으로 표시"
+    },
+    "markImportant": {
+        "message": "중요로 표시"
+    },
+    "removeImportance": {
+        "message": "중요 표시 제거"
+    },
+    "deleteTask": {
+        "message": "작업 삭제"
+    },
+    "todoBrand": {
+        "message": "Todoist"
+    },
+    "setUpSync": {
+        "message": "동기화 설정"
+    },
+    "signIn": {
+        "message": "로그인"
+    },
+    "syncNow": {
+        "message": "지금 동기화"
+    },
+    "syncPitch": {
+        "message": "메모와 작업을 Todoist와 동기화합니다."
+    },
+    "signInExpired": {
+        "message": "로그인이 만료되었습니다."
+    },
+    "connected": {
+        "message": "Todoist에 연결됨"
+    },
+    "syncing": {
+        "message": "동기화하는 중..."
+    },
+    "syncedAt": {
+        "message": "$1에 동기화됨"
+    },
+    "syncFailed": {
+        "message": "동기화 실패: $1"
+    },
+    "close": {
+        "message": "닫기"
+    },
+    "notNow": {
+        "message": "나중에"
+    },
+    "setupTitle": {
+        "message": "Todoist와 동기화"
+    },
+    "connectBody": {
+        "message": "메모와 작업은 Todoist 프로젝트에 저장되며, 메모가 있는 탭과 탭 그룹마다 작업이 하나씩 만들어집니다. 휴대폰, 컴퓨터, 웹의 Todoist에서 사용할 수 있습니다."
+    },
+    "doneTitle": {
+        "message": "모든 준비가 완료되었습니다"
+    },
+    "signedInAs": {
+        "message": "$1(으)로 로그인됨"
+    },
+    "yourAccount": {
+        "message": "Todoist 계정"
+    },
+    "doneBody": {
+        "message": "메모와 작업은 Todoist의 **$1** 프로젝트와 동기화됩니다. 탭 그룹은 **$2**, 탭은 **$3**(이)라는 작업이 되며, 작업은 하위 작업으로 추가됩니다."
+    },
+    "groupNamePlaceholder": {
+        "message": "<그룹 이름>"
+    },
+    "pageTitlePlaceholder": {
+        "message": "<페이지 제목>"
+    },
+    "done": {
+        "message": "완료"
+    },
+    "manageTitle": {
+        "message": "Todoist 동기화"
+    },
+    "signOut": {
+        "message": "로그아웃"
+    },
+    "todoistTaskGroup": {
+        "message": "**[그룹]** $1"
+    },
+    "todoistTaskTab": {
+        "message": "**[탭]** $1"
+    },
+    "untitledPage": {
+        "message": "제목 없는 페이지"
+    },
+    "errCanceled": {
+        "message": "로그인이 취소되었습니다."
+    },
+    "errAuthPage": {
+        "message": "Todoist 로그인 페이지를 완료하지 못했습니다. 다시 시도하세요."
+    },
+    "errGeneric": {
+        "message": "문제가 발생했습니다."
+    },
+    "errNoResponse": {
+        "message": "확장 프로그램이 응답하지 않습니다. 사이드 패널을 다시 열어 보세요."
+    },
+    "errNotesGone": {
+        "message": "이 메모는 더 이상 사용할 수 없습니다."
+    },
+    "errSignInAgain": {
+        "message": "계속 동기화하려면 다시 로그인하세요."
+    },
+    "errNotSignedIn": {
+        "message": "로그인하지 않았습니다."
+    },
+    "errStateMismatch": {
+        "message": "로그인을 확인할 수 없습니다. 다시 시도하세요."
+    },
+    "todoistProject": {
+        "message": "TabStack"
+    },
+    "signInWithTodoist": {
+        "message": "Todoist로 로그인"
+    },
+    "todoistAccount": {
+        "message": "Todoist 계정"
+    },
+    "errRegister": {
+        "message": "Todoist에 연결할 수 없습니다. 나중에 다시 시도하세요."
+    },
+    "syncedToTodoist": {
+        "message": "Todoist와 동기화되었습니다. 클릭하면 Todoist에서 열립니다."
+    },
+    "pendingSync": {
+        "message": "Todoist와 동기화 대기 중"
+    },
+    "todoistProjectLegacy1": {
+        "message": "탭 그룹 메모"
+    },
+    "deleteNotes": {
+        "message": "메모 삭제"
+    },
+    "deleteSection": {
+        "message": "메모 및 작업 삭제"
+    },
+    "confirmDeleteNotes": {
+        "message": "이 메모를 삭제할까요?"
+    },
+    "confirmDeleteGroup": {
+        "message": "이 탭 그룹의 메모와 작업을 삭제할까요?"
+    },
+    "confirmDeleteTab": {
+        "message": "이 탭의 메모와 작업을 삭제할까요?"
+    },
+    "confirmAlsoTodoist": {
+        "message": "Todoist에서도 삭제됩니다."
+    },
+    "cancel": {
+        "message": "취소"
+    },
+    "delete": {
+        "message": "삭제"
+    },
+    "reorderTask": {
+        "message": "끌어서 순서를 바꿉니다. 작업에서 Alt+위쪽 또는 Alt+아래쪽 화살표를 눌러도 됩니다."
+    },
+    "settingsTitle": {
+        "message": "설정"
+    },
+    "closeActionLabel": {
+        "message": "메모가 있는 탭을 닫을 때"
+    },
+    "closeActionAsk": {
+        "message": "메모와 작업을 삭제할지 묻기"
+    },
+    "closeActionKeep": {
+        "message": "메모와 작업 유지"
+    },
+    "closeActionDelete": {
+        "message": "메모와 작업 삭제"
+    },
+    "rememberChoice": {
+        "message": "선택 기억"
+    },
+    "keep": {
+        "message": "유지"
+    },
+    "closedOne": {
+        "message": "\"$1\" 탭을 닫았습니다. 메모와 작업을 삭제할까요?"
+    },
+    "closedMany_other": {
+        "message": "메모가 있는 탭 $1개를 닫았습니다. 메모와 작업을 삭제할까요?"
+    },
+    "tasksHeading": {
+        "message": "작업"
+    },
+    "syncDone": {
+        "message": "모두 동기화되었습니다."
+    },
+    "aboutLine": {
+        "message": "$1 $2 · 제작: $3"
+    },
+    "nothingToSync": {
+        "message": "동기화할 항목이 없습니다. Todoist에서 변경한 내용은 자동으로 가져옵니다."
+    },
+    "todoistTaskGroupLegacy1": {
+        "message": "탭 그룹: $1"
+    },
+    "todoistTaskTabLegacy1": {
+        "message": "탭: $1"
+    }
+}

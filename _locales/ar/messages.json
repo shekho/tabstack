@@ -1,0 +1,305 @@
+{
+    "localeCode": {
+        "message": "ar"
+    },
+    "extName": {
+        "message": "TabStack"
+    },
+    "extDescription": {
+        "message": "جزء جانبي يضم ملاحظات ومهام لكل علامة تبويب ومجموعة علامات تبويب، تتم مزامنته مع Todoist."
+    },
+    "actionTitle": {
+        "message": "ملاحظات علامة التبويب"
+    },
+    "commandOpen": {
+        "message": "فتح ملاحظات علامة التبويب"
+    },
+    "pageTitle": {
+        "message": "ملاحظات علامة التبويب"
+    },
+    "emptyTitle": {
+        "message": "لم يتم تحديد علامة تبويب"
+    },
+    "emptyBody": {
+        "message": "حدد علامة تبويب لعرض ملاحظاتها ومهامها."
+    },
+    "groupPaneLabel": {
+        "message": "ملاحظات مجموعة علامات التبويب"
+    },
+    "tabPaneLabel": {
+        "message": "ملاحظات علامة التبويب"
+    },
+    "untitledGroup": {
+        "message": "مجموعة بلا اسم"
+    },
+    "newTab": {
+        "message": "علامة تبويب جديدة"
+    },
+    "localFile": {
+        "message": "ملف محلي"
+    },
+    "tabCount_zero": {
+        "message": "لا توجد علامات تبويب"
+    },
+    "tabCount_one": {
+        "message": "علامة تبويب واحدة"
+    },
+    "tabCount_two": {
+        "message": "علامتا تبويب"
+    },
+    "tabCount_few": {
+        "message": "$1 علامات تبويب"
+    },
+    "tabCount_many": {
+        "message": "$1 علامة تبويب"
+    },
+    "tabCount_other": {
+        "message": "$1 علامة تبويب"
+    },
+    "openTasks_zero": {
+        "message": "لا توجد مهام مفتوحة"
+    },
+    "openTasks_one": {
+        "message": "مهمة مفتوحة واحدة"
+    },
+    "openTasks_two": {
+        "message": "مهمتان مفتوحتان"
+    },
+    "openTasks_few": {
+        "message": "$1 مهام مفتوحة"
+    },
+    "openTasks_many": {
+        "message": "$1 مهمة مفتوحة"
+    },
+    "openTasks_other": {
+        "message": "$1 مهمة مفتوحة"
+    },
+    "notesHeading": {
+        "message": "الملاحظات"
+    },
+    "notesPlaceholder": {
+        "message": "إضافة ملاحظة"
+    },
+    "addTaskPlaceholder": {
+        "message": "إضافة مهمة"
+    },
+    "addTaskLabel": {
+        "message": "إضافة مهمة. اضغط على Enter للإضافة، وعلى Shift+Enter لبدء سطر جديد."
+    },
+    "taskTitleLabel": {
+        "message": "عنوان المهمة. اضغط على Enter للحفظ، وعلى Shift+Enter لبدء سطر جديد."
+    },
+    "completed": {
+        "message": "المكتملة"
+    },
+    "markCompleted": {
+        "message": "وضع علامة مكتملة"
+    },
+    "markNotCompleted": {
+        "message": "وضع علامة غير مكتملة"
+    },
+    "markImportant": {
+        "message": "وضع علامة مهمة"
+    },
+    "removeImportance": {
+        "message": "إزالة علامة الأهمية"
+    },
+    "deleteTask": {
+        "message": "حذف المهمة"
+    },
+    "todoBrand": {
+        "message": "Todoist"
+    },
+    "setUpSync": {
+        "message": "إعداد المزامنة"
+    },
+    "signIn": {
+        "message": "تسجيل الدخول"
+    },
+    "syncNow": {
+        "message": "المزامنة الآن"
+    },
+    "syncPitch": {
+        "message": "مزامنة الملاحظات والمهام مع Todoist."
+    },
+    "signInExpired": {
+        "message": "انتهت صلاحية تسجيل دخولك."
+    },
+    "connected": {
+        "message": "متصل بـ Todoist"
+    },
+    "syncing": {
+        "message": "جارٍ المزامنة..."
+    },
+    "syncedAt": {
+        "message": "تمت المزامنة في $1"
+    },
+    "syncFailed": {
+        "message": "فشلت المزامنة: $1"
+    },
+    "close": {
+        "message": "إغلاق"
+    },
+    "notNow": {
+        "message": "ليس الآن"
+    },
+    "setupTitle": {
+        "message": "المزامنة مع Todoist"
+    },
+    "connectBody": {
+        "message": "تُحفظ ملاحظاتك ومهامك في مشروع على Todoist، مع مهمة لكل علامة تبويب ومجموعة علامات تبويب تحتوي على ملاحظات. استخدمها في Todoist على هاتفك وجهاز الكمبيوتر والويب."
+    },
+    "doneTitle": {
+        "message": "أصبح كل شيء جاهزًا"
+    },
+    "signedInAs": {
+        "message": "تم تسجيل الدخول باسم $1"
+    },
+    "yourAccount": {
+        "message": "حساب Todoist الخاص بك"
+    },
+    "doneBody": {
+        "message": "تتم مزامنة الملاحظات والمهام مع المشروع **$1** في Todoist. كل مجموعة علامات تبويب هي مهمة باسم **$2** وكل علامة تبويب مهمة باسم **$3**، ومهامك مهام فرعية لها."
+    },
+    "groupNamePlaceholder": {
+        "message": "<اسم المجموعة>"
+    },
+    "pageTitlePlaceholder": {
+        "message": "<عنوان الصفحة>"
+    },
+    "done": {
+        "message": "تم"
+    },
+    "manageTitle": {
+        "message": "مزامنة Todoist"
+    },
+    "signOut": {
+        "message": "تسجيل الخروج"
+    },
+    "todoistTaskGroup": {
+        "message": "**[مجموعة]** $1"
+    },
+    "todoistTaskTab": {
+        "message": "**[علامة تبويب]** $1"
+    },
+    "untitledPage": {
+        "message": "صفحة بلا عنوان"
+    },
+    "errCanceled": {
+        "message": "تم إلغاء تسجيل الدخول."
+    },
+    "errAuthPage": {
+        "message": "تعذر إكمال صفحة تسجيل الدخول إلى Todoist. حاول مرة أخرى."
+    },
+    "errGeneric": {
+        "message": "حدث خطأ ما."
+    },
+    "errNoResponse": {
+        "message": "لم يستجب الملحق. حاول إعادة فتح الجزء الجانبي."
+    },
+    "errNotesGone": {
+        "message": "لم تعد هذه الملاحظات متوفرة."
+    },
+    "errSignInAgain": {
+        "message": "سجل الدخول مرة أخرى لمتابعة المزامنة."
+    },
+    "errNotSignedIn": {
+        "message": "لم يتم تسجيل الدخول."
+    },
+    "errStateMismatch": {
+        "message": "تعذر التحقق من تسجيل الدخول. حاول مرة أخرى."
+    },
+    "todoistProject": {
+        "message": "TabStack"
+    },
+    "signInWithTodoist": {
+        "message": "تسجيل الدخول باستخدام Todoist"
+    },
+    "todoistAccount": {
+        "message": "حساب Todoist"
+    },
+    "errRegister": {
+        "message": "تعذر الاتصال بـ Todoist. حاول مرة أخرى لاحقًا."
+    },
+    "syncedToTodoist": {
+        "message": "تمت المزامنة مع Todoist. انقر لفتحه في Todoist."
+    },
+    "pendingSync": {
+        "message": "في انتظار المزامنة مع Todoist"
+    },
+    "todoistProjectLegacy1": {
+        "message": "ملاحظات مجموعات علامات التبويب"
+    },
+    "deleteNotes": {
+        "message": "حذف الملاحظات"
+    },
+    "deleteSection": {
+        "message": "حذف الملاحظات والمهام"
+    },
+    "confirmDeleteNotes": {
+        "message": "هل تريد حذف هذه الملاحظات؟"
+    },
+    "confirmDeleteGroup": {
+        "message": "هل تريد حذف ملاحظات ومهام مجموعة علامات التبويب هذه؟"
+    },
+    "confirmDeleteTab": {
+        "message": "هل تريد حذف ملاحظات ومهام علامة التبويب هذه؟"
+    },
+    "confirmAlsoTodoist": {
+        "message": "سيتم حذفها من Todoist أيضًا."
+    },
+    "cancel": {
+        "message": "إلغاء"
+    },
+    "delete": {
+        "message": "حذف"
+    },
+    "reorderTask": {
+        "message": "اسحب لإعادة الترتيب، أو اضغط على Alt+السهم لأعلى أو Alt+السهم لأسفل في المهمة."
+    },
+    "settingsTitle": {
+        "message": "الإعدادات"
+    },
+    "closeActionLabel": {
+        "message": "عند إغلاق علامة تبويب تحتوي على ملاحظات"
+    },
+    "closeActionAsk": {
+        "message": "السؤال عن حذف ملاحظاتها ومهامها"
+    },
+    "closeActionKeep": {
+        "message": "الاحتفاظ بملاحظاتها ومهامها"
+    },
+    "closeActionDelete": {
+        "message": "حذف ملاحظاتها ومهامها"
+    },
+    "rememberChoice": {
+        "message": "تذكر اختياري"
+    },
+    "keep": {
+        "message": "احتفاظ"
+    },
+    "closedOne": {
+        "message": "لقد أغلقت \"$1\". هل تريد حذف ملاحظاتها ومهامها؟"
+    },
+    "closedMany_other": {
+        "message": "لقد أغلقت $1 من علامات التبويب التي تحتوي على ملاحظات. هل تريد حذف ملاحظاتها ومهامها؟"
+    },
+    "tasksHeading": {
+        "message": "المهام"
+    },
+    "syncDone": {
+        "message": "تمت مزامنة كل شيء."
+    },
+    "aboutLine": {
+        "message": "$1 $2 · من إنتاج $3"
+    },
+    "nothingToSync": {
+        "message": "لا يوجد شيء للمزامنة. يتم جلب التغييرات التي تجريها في Todoist تلقائيًا."
+    },
+    "todoistTaskGroupLegacy1": {
+        "message": "مجموعة علامات تبويب: $1"
+    },
+    "todoistTaskTabLegacy1": {
+        "message": "علامة تبويب: $1"
+    }
+}

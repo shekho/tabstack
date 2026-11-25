@@ -1,0 +1,275 @@
+{
+    "localeCode": {
+        "message": "ja"
+    },
+    "extName": {
+        "message": "TabStack"
+    },
+    "extDescription": {
+        "message": "すべてのタブとタブ グループにメモとタスクを追加できるサイド パネル。Todoist と同期します。"
+    },
+    "actionTitle": {
+        "message": "タブのメモ"
+    },
+    "commandOpen": {
+        "message": "タブのメモを開く"
+    },
+    "pageTitle": {
+        "message": "タブのメモ"
+    },
+    "emptyTitle": {
+        "message": "タブが選択されていません"
+    },
+    "emptyBody": {
+        "message": "タブを選択すると、そのメモとタスクが表示されます。"
+    },
+    "groupPaneLabel": {
+        "message": "タブ グループのメモ"
+    },
+    "tabPaneLabel": {
+        "message": "タブのメモ"
+    },
+    "untitledGroup": {
+        "message": "名前のないグループ"
+    },
+    "newTab": {
+        "message": "新しいタブ"
+    },
+    "localFile": {
+        "message": "ローカル ファイル"
+    },
+    "tabCount_other": {
+        "message": "$1 個のタブ"
+    },
+    "openTasks_other": {
+        "message": "未完了のタスク $1 件"
+    },
+    "notesHeading": {
+        "message": "メモ"
+    },
+    "notesPlaceholder": {
+        "message": "メモを追加"
+    },
+    "addTaskPlaceholder": {
+        "message": "タスクを追加"
+    },
+    "addTaskLabel": {
+        "message": "タスクを追加します。Enter キーで追加、Shift+Enter キーで改行します。"
+    },
+    "taskTitleLabel": {
+        "message": "タスクのタイトル。Enter キーで保存、Shift+Enter キーで改行します。"
+    },
+    "completed": {
+        "message": "完了済み"
+    },
+    "markCompleted": {
+        "message": "完了にする"
+    },
+    "markNotCompleted": {
+        "message": "未完了にする"
+    },
+    "markImportant": {
+        "message": "重要としてマーク"
+    },
+    "removeImportance": {
+        "message": "重要の設定を解除"
+    },
+    "deleteTask": {
+        "message": "タスクを削除"
+    },
+    "todoBrand": {
+        "message": "Todoist"
+    },
+    "setUpSync": {
+        "message": "同期を設定"
+    },
+    "signIn": {
+        "message": "サインイン"
+    },
+    "syncNow": {
+        "message": "今すぐ同期"
+    },
+    "syncPitch": {
+        "message": "メモとタスクを Todoist と同期します。"
+    },
+    "signInExpired": {
+        "message": "サインインの有効期限が切れました。"
+    },
+    "connected": {
+        "message": "Todoist に接続済み"
+    },
+    "syncing": {
+        "message": "同期しています..."
+    },
+    "syncedAt": {
+        "message": "$1 に同期しました"
+    },
+    "syncFailed": {
+        "message": "同期できませんでした: $1"
+    },
+    "close": {
+        "message": "閉じる"
+    },
+    "notNow": {
+        "message": "後で"
+    },
+    "setupTitle": {
+        "message": "Todoist と同期"
+    },
+    "connectBody": {
+        "message": "メモとタスクは Todoist のプロジェクトに保存され、メモのあるタブとタブ グループごとにタスクが作成されます。スマートフォン、パソコン、Web の Todoist で利用できます。"
+    },
+    "doneTitle": {
+        "message": "準備が完了しました"
+    },
+    "signedInAs": {
+        "message": "$1 としてサインインしています"
+    },
+    "yourAccount": {
+        "message": "お使いの Todoist アカウント"
+    },
+    "doneBody": {
+        "message": "メモとタスクは Todoist のプロジェクト **$1** と同期されます。タブ グループは **$2**、タブは **$3** という名前のタスクになり、タスクはそのサブタスクになります。"
+    },
+    "groupNamePlaceholder": {
+        "message": "<グループ名>"
+    },
+    "pageTitlePlaceholder": {
+        "message": "<ページ タイトル>"
+    },
+    "done": {
+        "message": "完了"
+    },
+    "manageTitle": {
+        "message": "Todoist の同期"
+    },
+    "signOut": {
+        "message": "サインアウト"
+    },
+    "todoistTaskGroup": {
+        "message": "**[グループ]** $1"
+    },
+    "todoistTaskTab": {
+        "message": "**[タブ]** $1"
+    },
+    "untitledPage": {
+        "message": "無題のページ"
+    },
+    "errCanceled": {
+        "message": "サインインがキャンセルされました。"
+    },
+    "errAuthPage": {
+        "message": "Todoist のサインイン ページを完了できませんでした。もう一度お試しください。"
+    },
+    "errGeneric": {
+        "message": "問題が発生しました。"
+    },
+    "errNoResponse": {
+        "message": "拡張機能が応答しませんでした。サイド パネルを開き直してください。"
+    },
+    "errNotesGone": {
+        "message": "このメモは利用できなくなりました。"
+    },
+    "errSignInAgain": {
+        "message": "同期を続けるには、もう一度サインインしてください。"
+    },
+    "errNotSignedIn": {
+        "message": "サインインしていません。"
+    },
+    "errStateMismatch": {
+        "message": "サインインを確認できませんでした。もう一度お試しください。"
+    },
+    "todoistProject": {
+        "message": "TabStack"
+    },
+    "signInWithTodoist": {
+        "message": "Todoist でサインイン"
+    },
+    "todoistAccount": {
+        "message": "Todoist アカウント"
+    },
+    "errRegister": {
+        "message": "Todoist に接続できませんでした。後でもう一度お試しください。"
+    },
+    "syncedToTodoist": {
+        "message": "Todoist と同期済みです。クリックすると Todoist で開きます。"
+    },
+    "pendingSync": {
+        "message": "Todoist との同期を待機中"
+    },
+    "todoistProjectLegacy1": {
+        "message": "タブ グループ ノート"
+    },
+    "deleteNotes": {
+        "message": "メモを削除"
+    },
+    "deleteSection": {
+        "message": "メモとタスクを削除"
+    },
+    "confirmDeleteNotes": {
+        "message": "このメモを削除しますか?"
+    },
+    "confirmDeleteGroup": {
+        "message": "このタブ グループのメモとタスクを削除しますか?"
+    },
+    "confirmDeleteTab": {
+        "message": "このタブのメモとタスクを削除しますか?"
+    },
+    "confirmAlsoTodoist": {
+        "message": "Todoist からも削除されます。"
+    },
+    "cancel": {
+        "message": "キャンセル"
+    },
+    "delete": {
+        "message": "削除"
+    },
+    "reorderTask": {
+        "message": "ドラッグして並べ替えます。タスク内で Alt+↑ または Alt+↓ キーを押しても移動できます。"
+    },
+    "settingsTitle": {
+        "message": "設定"
+    },
+    "closeActionLabel": {
+        "message": "メモのあるタブを閉じたとき"
+    },
+    "closeActionAsk": {
+        "message": "メモとタスクを削除するか確認する"
+    },
+    "closeActionKeep": {
+        "message": "メモとタスクを残す"
+    },
+    "closeActionDelete": {
+        "message": "メモとタスクを削除する"
+    },
+    "rememberChoice": {
+        "message": "選択を記憶する"
+    },
+    "keep": {
+        "message": "残す"
+    },
+    "closedOne": {
+        "message": "「$1」を閉じました。メモとタスクを削除しますか?"
+    },
+    "closedMany_other": {
+        "message": "メモのあるタブを $1 個閉じました。メモとタスクを削除しますか?"
+    },
+    "tasksHeading": {
+        "message": "タスク"
+    },
+    "syncDone": {
+        "message": "すべて同期されました。"
+    },
+    "aboutLine": {
+        "message": "$1 $2 · 制作: $3"
+    },
+    "nothingToSync": {
+        "message": "同期するものはありません。Todoist での変更は自動的に取り込まれます。"
+    },
+    "todoistTaskGroupLegacy1": {
+        "message": "タブ グループ: $1"
+    },
+    "todoistTaskTabLegacy1": {
+        "message": "タブ: $1"
+    }
+}

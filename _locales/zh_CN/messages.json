@@ -1,0 +1,275 @@
+{
+    "localeCode": {
+        "message": "zh_CN"
+    },
+    "extName": {
+        "message": "TabStack"
+    },
+    "extDescription": {
+        "message": "侧边栏，可为每个标签页和标签页组记录笔记和任务，并与 Todoist 同步。"
+    },
+    "actionTitle": {
+        "message": "标签页笔记"
+    },
+    "commandOpen": {
+        "message": "打开标签页笔记"
+    },
+    "pageTitle": {
+        "message": "标签页笔记"
+    },
+    "emptyTitle": {
+        "message": "未选择标签页"
+    },
+    "emptyBody": {
+        "message": "选择一个标签页以查看其笔记和任务。"
+    },
+    "groupPaneLabel": {
+        "message": "标签页组笔记"
+    },
+    "tabPaneLabel": {
+        "message": "标签页笔记"
+    },
+    "untitledGroup": {
+        "message": "未命名组"
+    },
+    "newTab": {
+        "message": "新标签页"
+    },
+    "localFile": {
+        "message": "本地文件"
+    },
+    "tabCount_other": {
+        "message": "$1 个标签页"
+    },
+    "openTasks_other": {
+        "message": "$1 个未完成任务"
+    },
+    "notesHeading": {
+        "message": "笔记"
+    },
+    "notesPlaceholder": {
+        "message": "添加笔记"
+    },
+    "addTaskPlaceholder": {
+        "message": "添加任务"
+    },
+    "addTaskLabel": {
+        "message": "添加任务。按 Enter 添加，按 Shift+Enter 换行。"
+    },
+    "taskTitleLabel": {
+        "message": "任务标题。按 Enter 保存，按 Shift+Enter 换行。"
+    },
+    "completed": {
+        "message": "已完成"
+    },
+    "markCompleted": {
+        "message": "标记为已完成"
+    },
+    "markNotCompleted": {
+        "message": "标记为未完成"
+    },
+    "markImportant": {
+        "message": "标记为重要"
+    },
+    "removeImportance": {
+        "message": "取消重要标记"
+    },
+    "deleteTask": {
+        "message": "删除任务"
+    },
+    "todoBrand": {
+        "message": "Todoist"
+    },
+    "setUpSync": {
+        "message": "设置同步"
+    },
+    "signIn": {
+        "message": "登录"
+    },
+    "syncNow": {
+        "message": "立即同步"
+    },
+    "syncPitch": {
+        "message": "将笔记和任务同步到 Todoist。"
+    },
+    "signInExpired": {
+        "message": "登录已过期。"
+    },
+    "connected": {
+        "message": "已连接到 Todoist"
+    },
+    "syncing": {
+        "message": "正在同步..."
+    },
+    "syncedAt": {
+        "message": "同步于 $1"
+    },
+    "syncFailed": {
+        "message": "同步失败: $1"
+    },
+    "close": {
+        "message": "关闭"
+    },
+    "notNow": {
+        "message": "以后再说"
+    },
+    "setupTitle": {
+        "message": "与 Todoist 同步"
+    },
+    "connectBody": {
+        "message": "你的笔记和任务会保存到一个 Todoist 项目中，每个有笔记的标签页和标签页组都对应一个任务。可在手机、电脑和网页上的 Todoist 中使用。"
+    },
+    "doneTitle": {
+        "message": "一切就绪"
+    },
+    "signedInAs": {
+        "message": "已以 $1 身份登录"
+    },
+    "yourAccount": {
+        "message": "你的 Todoist 帐户"
+    },
+    "doneBody": {
+        "message": "笔记和任务会同步到 Todoist 中的 **$1** 项目。每个标签页组是一个名为 **$2** 的任务，每个标签页是一个名为 **$3** 的任务，你的任务作为其子任务。"
+    },
+    "groupNamePlaceholder": {
+        "message": "<组名称>"
+    },
+    "pageTitlePlaceholder": {
+        "message": "<页面标题>"
+    },
+    "done": {
+        "message": "完成"
+    },
+    "manageTitle": {
+        "message": "Todoist 同步"
+    },
+    "signOut": {
+        "message": "注销"
+    },
+    "todoistTaskGroup": {
+        "message": "**[组]** $1"
+    },
+    "todoistTaskTab": {
+        "message": "**[标签页]** $1"
+    },
+    "untitledPage": {
+        "message": "无标题页面"
+    },
+    "errCanceled": {
+        "message": "已取消登录。"
+    },
+    "errAuthPage": {
+        "message": "无法完成 Todoist 登录页面。请重试。"
+    },
+    "errGeneric": {
+        "message": "出现问题。"
+    },
+    "errNoResponse": {
+        "message": "扩展未响应。请尝试重新打开侧边栏。"
+    },
+    "errNotesGone": {
+        "message": "这些笔记已不可用。"
+    },
+    "errSignInAgain": {
+        "message": "请重新登录以继续同步。"
+    },
+    "errNotSignedIn": {
+        "message": "未登录。"
+    },
+    "errStateMismatch": {
+        "message": "无法验证登录。请重试。"
+    },
+    "todoistProject": {
+        "message": "TabStack"
+    },
+    "signInWithTodoist": {
+        "message": "使用 Todoist 登录"
+    },
+    "todoistAccount": {
+        "message": "Todoist 帐户"
+    },
+    "errRegister": {
+        "message": "无法连接到 Todoist。请稍后重试。"
+    },
+    "syncedToTodoist": {
+        "message": "已同步到 Todoist。单击可在 Todoist 中打开。"
+    },
+    "pendingSync": {
+        "message": "等待同步到 Todoist"
+    },
+    "todoistProjectLegacy1": {
+        "message": "标签页组笔记"
+    },
+    "deleteNotes": {
+        "message": "删除笔记"
+    },
+    "deleteSection": {
+        "message": "删除笔记和任务"
+    },
+    "confirmDeleteNotes": {
+        "message": "删除这些笔记?"
+    },
+    "confirmDeleteGroup": {
+        "message": "删除此标签页组的笔记和任务?"
+    },
+    "confirmDeleteTab": {
+        "message": "删除此标签页的笔记和任务?"
+    },
+    "confirmAlsoTodoist": {
+        "message": "它们也会从 Todoist 中删除。"
+    },
+    "cancel": {
+        "message": "取消"
+    },
+    "delete": {
+        "message": "删除"
+    },
+    "reorderTask": {
+        "message": "拖动以重新排序，或在任务中按 Alt+向上键或 Alt+向下键。"
+    },
+    "settingsTitle": {
+        "message": "设置"
+    },
+    "closeActionLabel": {
+        "message": "关闭有笔记的标签页时"
+    },
+    "closeActionAsk": {
+        "message": "询问是否删除其笔记和任务"
+    },
+    "closeActionKeep": {
+        "message": "保留其笔记和任务"
+    },
+    "closeActionDelete": {
+        "message": "删除其笔记和任务"
+    },
+    "rememberChoice": {
+        "message": "记住我的选择"
+    },
+    "keep": {
+        "message": "保留"
+    },
+    "closedOne": {
+        "message": "你关闭了“$1”。要删除其笔记和任务吗?"
+    },
+    "closedMany_other": {
+        "message": "你关闭了 $1 个有笔记的标签页。要删除它们的笔记和任务吗?"
+    },
+    "tasksHeading": {
+        "message": "任务"
+    },
+    "syncDone": {
+        "message": "全部已同步。"
+    },
+    "aboutLine": {
+        "message": "$1 $2 · 出品: $3"
+    },
+    "nothingToSync": {
+        "message": "没有要同步的内容。在 Todoist 中所做的更改会自动获取。"
+    },
+    "todoistTaskGroupLegacy1": {
+        "message": "标签页组: $1"
+    },
+    "todoistTaskTabLegacy1": {
+        "message": "标签页: $1"
+    }
+}

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- 16/32 px version: same layout, slightly bigger circle and heavier outline to stay readable. -->
+  <circle cx="64" cy="64" r="29" fill="#1f5fd6"/>
+  <g transform="translate(64 64) scale(1.3) translate(-65 -65)">
+    <path d="M88 20H52L35 66h31L40 110l55-58H62z" fill="#e8222b" stroke="#fff" stroke-width="5.5" stroke-linejoin="round"/>
+  </g>
+</svg>

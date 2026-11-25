@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- TabStack icon (48 px and up): a large red lightning bolt over a small plain blue circle. -->
+  <circle cx="64" cy="64" r="26" fill="#1f5fd6"/>
+  <!-- Bolt scaled about its center to span nearly the whole icon. -->
+  <g transform="translate(64 64) scale(1.32) translate(-65 -65)">
+    <path d="M88 20H52L35 66h31L40 110l55-58H62z" fill="#e8222b" stroke="#fff" stroke-width="3" stroke-linejoin="round"/>
+  </g>
+</svg>

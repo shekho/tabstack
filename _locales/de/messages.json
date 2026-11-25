@@ -1,0 +1,281 @@
+{
+    "localeCode": {
+        "message": "de"
+    },
+    "extName": {
+        "message": "TabStack"
+    },
+    "extDescription": {
+        "message": "Ein Seitenbereich mit Notizen und Aufgaben für jeden Tab und jede Tabgruppe, synchronisiert mit Todoist."
+    },
+    "actionTitle": {
+        "message": "Tab-Notizen"
+    },
+    "commandOpen": {
+        "message": "Tab-Notizen öffnen"
+    },
+    "pageTitle": {
+        "message": "Tab-Notizen"
+    },
+    "emptyTitle": {
+        "message": "Kein Tab ausgewählt"
+    },
+    "emptyBody": {
+        "message": "Wählen Sie einen Tab aus, um seine Notizen und Aufgaben anzuzeigen."
+    },
+    "groupPaneLabel": {
+        "message": "Tabgruppen-Notizen"
+    },
+    "tabPaneLabel": {
+        "message": "Tab-Notizen"
+    },
+    "untitledGroup": {
+        "message": "Unbenannte Gruppe"
+    },
+    "newTab": {
+        "message": "Neuer Tab"
+    },
+    "localFile": {
+        "message": "Lokale Datei"
+    },
+    "tabCount_one": {
+        "message": "$1 Tab"
+    },
+    "tabCount_other": {
+        "message": "$1 Tabs"
+    },
+    "openTasks_one": {
+        "message": "$1 offene Aufgabe"
+    },
+    "openTasks_other": {
+        "message": "$1 offene Aufgaben"
+    },
+    "notesHeading": {
+        "message": "Notizen"
+    },
+    "notesPlaceholder": {
+        "message": "Notiz hinzufügen"
+    },
+    "addTaskPlaceholder": {
+        "message": "Aufgabe hinzufügen"
+    },
+    "addTaskLabel": {
+        "message": "Aufgabe hinzufügen. Mit der Eingabetaste hinzufügen, mit Umschalt+Eingabetaste eine neue Zeile beginnen."
+    },
+    "taskTitleLabel": {
+        "message": "Aufgabentitel. Mit der Eingabetaste speichern, mit Umschalt+Eingabetaste eine neue Zeile beginnen."
+    },
+    "completed": {
+        "message": "Erledigt"
+    },
+    "markCompleted": {
+        "message": "Als erledigt markieren"
+    },
+    "markNotCompleted": {
+        "message": "Als nicht erledigt markieren"
+    },
+    "markImportant": {
+        "message": "Als wichtig markieren"
+    },
+    "removeImportance": {
+        "message": "Wichtigkeit entfernen"
+    },
+    "deleteTask": {
+        "message": "Aufgabe löschen"
+    },
+    "todoBrand": {
+        "message": "Todoist"
+    },
+    "setUpSync": {
+        "message": "Synchronisierung einrichten"
+    },
+    "signIn": {
+        "message": "Anmelden"
+    },
+    "syncNow": {
+        "message": "Jetzt synchronisieren"
+    },
+    "syncPitch": {
+        "message": "Notizen und Aufgaben mit Todoist synchronisieren."
+    },
+    "signInExpired": {
+        "message": "Ihre Anmeldung ist abgelaufen."
+    },
+    "connected": {
+        "message": "Mit Todoist verbunden"
+    },
+    "syncing": {
+        "message": "Wird synchronisiert..."
+    },
+    "syncedAt": {
+        "message": "Synchronisiert um $1"
+    },
+    "syncFailed": {
+        "message": "Synchronisierung fehlgeschlagen: $1"
+    },
+    "close": {
+        "message": "Schließen"
+    },
+    "notNow": {
+        "message": "Nicht jetzt"
+    },
+    "setupTitle": {
+        "message": "Mit Todoist synchronisieren"
+    },
+    "connectBody": {
+        "message": "Ihre Notizen und Aufgaben landen in einem Todoist-Projekt, mit einer Aufgabe für jeden Tab und jede Tabgruppe mit Notizen. Nutzen Sie sie in Todoist auf Smartphone, Computer und im Web."
+    },
+    "doneTitle": {
+        "message": "Alles bereit"
+    },
+    "signedInAs": {
+        "message": "Angemeldet als $1"
+    },
+    "yourAccount": {
+        "message": "Ihr Todoist-Konto"
+    },
+    "doneBody": {
+        "message": "Notizen und Aufgaben werden mit dem Projekt **$1** in Todoist synchronisiert. Jede Tabgruppe ist eine Aufgabe namens **$2** und jeder Tab eine Aufgabe namens **$3**, mit Ihren Aufgaben als Unteraufgaben."
+    },
+    "groupNamePlaceholder": {
+        "message": "<Gruppenname>"
+    },
+    "pageTitlePlaceholder": {
+        "message": "<Seitentitel>"
+    },
+    "done": {
+        "message": "Fertig"
+    },
+    "manageTitle": {
+        "message": "Todoist-Synchronisierung"
+    },
+    "signOut": {
+        "message": "Abmelden"
+    },
+    "todoistTaskGroup": {
+        "message": "**[Gruppe]** $1"
+    },
+    "todoistTaskTab": {
+        "message": "**[Tab]** $1"
+    },
+    "untitledPage": {
+        "message": "Unbenannte Seite"
+    },
+    "errCanceled": {
+        "message": "Die Anmeldung wurde abgebrochen."
+    },
+    "errAuthPage": {
+        "message": "Die Todoist-Anmeldeseite konnte nicht abgeschlossen werden. Versuchen Sie es erneut."
+    },
+    "errGeneric": {
+        "message": "Ein Fehler ist aufgetreten."
+    },
+    "errNoResponse": {
+        "message": "Die Erweiterung hat nicht geantwortet. Öffnen Sie den Seitenbereich erneut."
+    },
+    "errNotesGone": {
+        "message": "Diese Notizen sind nicht mehr verfügbar."
+    },
+    "errSignInAgain": {
+        "message": "Melden Sie sich erneut an, um weiter zu synchronisieren."
+    },
+    "errNotSignedIn": {
+        "message": "Nicht angemeldet."
+    },
+    "errStateMismatch": {
+        "message": "Die Anmeldung konnte nicht überprüft werden. Versuchen Sie es erneut."
+    },
+    "todoistProject": {
+        "message": "TabStack"
+    },
+    "signInWithTodoist": {
+        "message": "Mit Todoist anmelden"
+    },
+    "todoistAccount": {
+        "message": "Todoist-Konto"
+    },
+    "errRegister": {
+        "message": "Keine Verbindung zu Todoist möglich. Versuchen Sie es später erneut."
+    },
+    "syncedToTodoist": {
+        "message": "Mit Todoist synchronisiert. Klicken, um es in Todoist zu öffnen."
+    },
+    "pendingSync": {
+        "message": "Wartet auf Synchronisierung mit Todoist"
+    },
+    "todoistProjectLegacy1": {
+        "message": "Tab-Gruppen-Notizen"
+    },
+    "deleteNotes": {
+        "message": "Notizen löschen"
+    },
+    "deleteSection": {
+        "message": "Notizen und Aufgaben löschen"
+    },
+    "confirmDeleteNotes": {
+        "message": "Diese Notizen löschen?"
+    },
+    "confirmDeleteGroup": {
+        "message": "Notizen und Aufgaben dieser Tabgruppe löschen?"
+    },
+    "confirmDeleteTab": {
+        "message": "Notizen und Aufgaben dieses Tabs löschen?"
+    },
+    "confirmAlsoTodoist": {
+        "message": "Sie werden auch aus Todoist gelöscht."
+    },
+    "cancel": {
+        "message": "Abbrechen"
+    },
+    "delete": {
+        "message": "Löschen"
+    },
+    "reorderTask": {
+        "message": "Zum Neuanordnen ziehen. Oder in der Aufgabe Alt+Nach-oben oder Alt+Nach-unten drücken."
+    },
+    "settingsTitle": {
+        "message": "Einstellungen"
+    },
+    "closeActionLabel": {
+        "message": "Wenn ein Tab mit Notizen geschlossen wird"
+    },
+    "closeActionAsk": {
+        "message": "Fragen, ob Notizen und Aufgaben gelöscht werden sollen"
+    },
+    "closeActionKeep": {
+        "message": "Notizen und Aufgaben behalten"
+    },
+    "closeActionDelete": {
+        "message": "Notizen und Aufgaben löschen"
+    },
+    "rememberChoice": {
+        "message": "Auswahl merken"
+    },
+    "keep": {
+        "message": "Behalten"
+    },
+    "closedOne": {
+        "message": "Sie haben „$1“ geschlossen. Notizen und Aufgaben löschen?"
+    },
+    "closedMany_other": {
+        "message": "Sie haben $1 Tabs mit Notizen geschlossen. Deren Notizen und Aufgaben löschen?"
+    },
+    "tasksHeading": {
+        "message": "Aufgaben"
+    },
+    "syncDone": {
+        "message": "Alles ist synchronisiert."
+    },
+    "aboutLine": {
+        "message": "$1 $2 · Von $3"
+    },
+    "nothingToSync": {
+        "message": "Nichts zu synchronisieren. Änderungen in Todoist werden automatisch übernommen."
+    },
+    "todoistTaskGroupLegacy1": {
+        "message": "Tabgruppe: $1"
+    },
+    "todoistTaskTabLegacy1": {
+        "message": "Tab: $1"
+    }
+}

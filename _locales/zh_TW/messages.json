@@ -1,0 +1,275 @@
+{
+    "localeCode": {
+        "message": "zh_TW"
+    },
+    "extName": {
+        "message": "TabStack"
+    },
+    "extDescription": {
+        "message": "側邊窗格，可為每個索引標籤和索引標籤群組記錄筆記和工作，並與 Todoist 同步。"
+    },
+    "actionTitle": {
+        "message": "索引標籤筆記"
+    },
+    "commandOpen": {
+        "message": "開啟索引標籤筆記"
+    },
+    "pageTitle": {
+        "message": "索引標籤筆記"
+    },
+    "emptyTitle": {
+        "message": "未選取索引標籤"
+    },
+    "emptyBody": {
+        "message": "選取索引標籤以查看其筆記和工作。"
+    },
+    "groupPaneLabel": {
+        "message": "索引標籤群組筆記"
+    },
+    "tabPaneLabel": {
+        "message": "索引標籤筆記"
+    },
+    "untitledGroup": {
+        "message": "未命名的群組"
+    },
+    "newTab": {
+        "message": "新索引標籤"
+    },
+    "localFile": {
+        "message": "本機檔案"
+    },
+    "tabCount_other": {
+        "message": "$1 個索引標籤"
+    },
+    "openTasks_other": {
+        "message": "$1 個未完成的工作"
+    },
+    "notesHeading": {
+        "message": "筆記"
+    },
+    "notesPlaceholder": {
+        "message": "新增筆記"
+    },
+    "addTaskPlaceholder": {
+        "message": "新增工作"
+    },
+    "addTaskLabel": {
+        "message": "新增工作。按 Enter 新增，按 Shift+Enter 換行。"
+    },
+    "taskTitleLabel": {
+        "message": "工作標題。按 Enter 儲存，按 Shift+Enter 換行。"
+    },
+    "completed": {
+        "message": "已完成"
+    },
+    "markCompleted": {
+        "message": "標示為已完成"
+    },
+    "markNotCompleted": {
+        "message": "標示為未完成"
+    },
+    "markImportant": {
+        "message": "標示為重要"
+    },
+    "removeImportance": {
+        "message": "移除重要標示"
+    },
+    "deleteTask": {
+        "message": "刪除工作"
+    },
+    "todoBrand": {
+        "message": "Todoist"
+    },
+    "setUpSync": {
+        "message": "設定同步"
+    },
+    "signIn": {
+        "message": "登入"
+    },
+    "syncNow": {
+        "message": "立即同步"
+    },
+    "syncPitch": {
+        "message": "將筆記和工作同步到 Todoist。"
+    },
+    "signInExpired": {
+        "message": "您的登入已過期。"
+    },
+    "connected": {
+        "message": "已連線到 Todoist"
+    },
+    "syncing": {
+        "message": "正在同步..."
+    },
+    "syncedAt": {
+        "message": "已於 $1 同步"
+    },
+    "syncFailed": {
+        "message": "同步失敗: $1"
+    },
+    "close": {
+        "message": "關閉"
+    },
+    "notNow": {
+        "message": "稍後再說"
+    },
+    "setupTitle": {
+        "message": "與 Todoist 同步"
+    },
+    "connectBody": {
+        "message": "您的筆記和工作會儲存到一個 Todoist 專案中，每個有筆記的索引標籤和索引標籤群組都對應一個工作。可在手機、電腦和網頁上的 Todoist 中使用。"
+    },
+    "doneTitle": {
+        "message": "一切就緒"
+    },
+    "signedInAs": {
+        "message": "已以 $1 身分登入"
+    },
+    "yourAccount": {
+        "message": "您的 Todoist 帳戶"
+    },
+    "doneBody": {
+        "message": "筆記和工作會同步到 Todoist 中的 **$1** 專案。每個索引標籤群組是名為 **$2** 的工作，每個索引標籤是名為 **$3** 的工作，您的工作則是其子工作。"
+    },
+    "groupNamePlaceholder": {
+        "message": "<群組名稱>"
+    },
+    "pageTitlePlaceholder": {
+        "message": "<頁面標題>"
+    },
+    "done": {
+        "message": "完成"
+    },
+    "manageTitle": {
+        "message": "Todoist 同步"
+    },
+    "signOut": {
+        "message": "登出"
+    },
+    "todoistTaskGroup": {
+        "message": "**[群組]** $1"
+    },
+    "todoistTaskTab": {
+        "message": "**[索引標籤]** $1"
+    },
+    "untitledPage": {
+        "message": "無標題的頁面"
+    },
+    "errCanceled": {
+        "message": "已取消登入。"
+    },
+    "errAuthPage": {
+        "message": "無法完成 Todoist 登入頁面。請再試一次。"
+    },
+    "errGeneric": {
+        "message": "發生問題。"
+    },
+    "errNoResponse": {
+        "message": "擴充功能沒有回應。請嘗試重新開啟側邊窗格。"
+    },
+    "errNotesGone": {
+        "message": "這些筆記已無法使用。"
+    },
+    "errSignInAgain": {
+        "message": "請重新登入以繼續同步。"
+    },
+    "errNotSignedIn": {
+        "message": "未登入。"
+    },
+    "errStateMismatch": {
+        "message": "無法驗證登入。請再試一次。"
+    },
+    "todoistProject": {
+        "message": "TabStack"
+    },
+    "signInWithTodoist": {
+        "message": "使用 Todoist 登入"
+    },
+    "todoistAccount": {
+        "message": "Todoist 帳戶"
+    },
+    "errRegister": {
+        "message": "無法連線到 Todoist。請稍後再試。"
+    },
+    "syncedToTodoist": {
+        "message": "已同步到 Todoist。按一下即可在 Todoist 中開啟。"
+    },
+    "pendingSync": {
+        "message": "等待同步到 Todoist"
+    },
+    "todoistProjectLegacy1": {
+        "message": "索引標籤群組筆記"
+    },
+    "deleteNotes": {
+        "message": "刪除筆記"
+    },
+    "deleteSection": {
+        "message": "刪除筆記和工作"
+    },
+    "confirmDeleteNotes": {
+        "message": "要刪除這些筆記嗎?"
+    },
+    "confirmDeleteGroup": {
+        "message": "要刪除此索引標籤群組的筆記和工作嗎?"
+    },
+    "confirmDeleteTab": {
+        "message": "要刪除此索引標籤的筆記和工作嗎?"
+    },
+    "confirmAlsoTodoist": {
+        "message": "這些內容也會從 Todoist 中刪除。"
+    },
+    "cancel": {
+        "message": "取消"
+    },
+    "delete": {
+        "message": "刪除"
+    },
+    "reorderTask": {
+        "message": "拖曳以重新排序，或在工作中按 Alt+向上鍵或 Alt+向下鍵。"
+    },
+    "settingsTitle": {
+        "message": "設定"
+    },
+    "closeActionLabel": {
+        "message": "關閉有筆記的索引標籤時"
+    },
+    "closeActionAsk": {
+        "message": "詢問是否刪除其筆記和工作"
+    },
+    "closeActionKeep": {
+        "message": "保留其筆記和工作"
+    },
+    "closeActionDelete": {
+        "message": "刪除其筆記和工作"
+    },
+    "rememberChoice": {
+        "message": "記住我的選擇"
+    },
+    "keep": {
+        "message": "保留"
+    },
+    "closedOne": {
+        "message": "您關閉了「$1」。要刪除其筆記和工作嗎?"
+    },
+    "closedMany_other": {
+        "message": "您關閉了 $1 個有筆記的索引標籤。要刪除它們的筆記和工作嗎?"
+    },
+    "tasksHeading": {
+        "message": "工作"
+    },
+    "syncDone": {
+        "message": "全部已同步。"
+    },
+    "aboutLine": {
+        "message": "$1 $2 · 出品: $3"
+    },
+    "nothingToSync": {
+        "message": "沒有要同步的內容。在 Todoist 中所做的變更會自動取得。"
+    },
+    "todoistTaskGroupLegacy1": {
+        "message": "索引標籤群組: $1"
+    },
+    "todoistTaskTabLegacy1": {
+        "message": "索引標籤: $1"
+    }
+}
